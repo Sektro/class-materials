@@ -1,0 +1,82 @@
+{
+    "pickup_point-oktogon": {
+        "id": "pickup_point-oktogon",
+        "type": "pickup_point",
+        "name": "Oktogon",
+        "cost": 500,
+        "time_estimate": "1",
+        "isOpen": false
+    },
+    "pickup_point-westend": {
+        "id": "pickup_point-westend",
+        "type": "pickup_point",
+        "name": "WestEnd",
+        "cost": 500,
+        "time_estimate": "1",
+        "isOpen": true
+    },
+    "pickup_point-corvin-plaza": {
+        "id": "pickup_point-corvin-plaza",
+        "type": "pickup_point",
+        "name": "Corvin Pl\u00e1za",
+        "cost": 500,
+        "time_estimate": "1",
+        "isOpen": true
+    },
+    "in_store-allee": {
+        "id": "in_store-allee",
+        "type": "in_store",
+        "name": "Allee",
+        "cost": 0,
+        "time_estimate": "Azonnal",
+        "isOpen": false
+    },
+    "in_store-arena-mall": {
+        "id": "in_store-arena-mall",
+        "type": "in_store",
+        "name": "Arena Mall",
+        "cost": 0,
+        "time_estimate": "Azonnal",
+        "isOpen": true
+    },
+    "in_store-mammut": {
+        "id": "in_store-mammut",
+        "type": "in_store",
+        "name": "Mammut",
+        "cost": 0,
+        "time_estimate": "Azonnal",
+        "isOpen": true
+    },
+    "courier-gls": {
+        "id": "courier-gls",
+        "type": "courier",
+        "name": "GLS",
+        "cost": 1500,
+        "time_estimate": "3",
+        "isOpen": true
+    },
+    "courier-expressone": {
+        "id": "courier-expressone",
+        "type": "courier",
+        "name": "ExpressOne",
+        "cost": 2500,
+        "time_estimate": "0",
+        "isOpen": true
+    },
+    "courier-mpl": {
+        "id": "courier-mpl",
+        "type": "courier",
+        "name": "MPL",
+        "cost": 2000,
+        "time_estimate": "2",
+        "isOpen": true
+    },
+    "courier-dhl": {
+        "id": "courier-dhl",
+        "type": "courier",
+        "name": "DHL",
+        "cost": 1800,
+        "time_estimate": "4",
+        "isOpen": true
+    }
+}

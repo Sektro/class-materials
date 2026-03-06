@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gyak10", "Gyak10.csproj", "{13E7EF81-5DDD-436E-B374-D74E8D52701F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DumTest", "..\DumTest\DumTest.csproj", "{3572E7F9-09AF-4351-8749-7D8657B95DC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13E7EF81-5DDD-436E-B374-D74E8D52701F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E7EF81-5DDD-436E-B374-D74E8D52701F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E7EF81-5DDD-436E-B374-D74E8D52701F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E7EF81-5DDD-436E-B374-D74E8D52701F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3572E7F9-09AF-4351-8749-7D8657B95DC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3572E7F9-09AF-4351-8749-7D8657B95DC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3572E7F9-09AF-4351-8749-7D8657B95DC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3572E7F9-09AF-4351-8749-7D8657B95DC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {322F0CB8-0040-4D85-9A39-43E8B60FA719}
+	EndGlobalSection
+EndGlobal

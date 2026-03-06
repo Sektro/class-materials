@@ -1,0 +1,254 @@
+@media screen 
+{
+    body {
+        background-color: #2e2a27;
+        background-size: 350px;
+        font-size: 1em;
+        font-family: Tahoma, sans-serif;
+        margin: 5px 0px 5px 0px;
+        background-image: url(../pics/spyemblem.png);
+    }
+    
+    .outofbounds a{position: absolute; left:-9999px;}
+    .outofbounds a:focus{position: static; background-color: #b35215; color: #c2c2bc;}
+    
+    header, main, footer {
+        background-color: #c2c2bc;
+        width: 80%;
+        padding: 25px;
+        margin: 0 auto 0 auto;
+    }
+    
+    /*-----------------------------HEADER-----------------------------*/
+    
+    header{
+        background-color: #564d45;
+        text-align: center;
+        position: relative;
+    }
+    
+    header a {
+        float: left;
+    }
+    
+    header h1 {
+        text-align: center;
+        width: 80%;
+        color: #c2c2bc;
+    }
+    
+    nav#handicapped{
+        position:absolute;
+        width: 200px;
+        top: 10px;
+        right: 10px;
+        border: 3px solid black;
+        background-color: #2e2a27;
+    }
+    
+    header nav#menu {
+        text-align: center;
+        width: 90%;
+    }
+    header nav#menu ul{
+        border: 4px solid #c2c2bc;
+        width: 90%;
+        table-layout: fixed; 
+        margin: 0 auto;
+        background-color: #c2c2bc;
+    }
+    header nav#menu ul li{
+        display: inline-block;
+        margin: 0px 30px 0px 30px;
+        text-align: center;
+    }
+    .active{
+        background-color: #b35215;
+    }
+    header nav#menu a {
+        padding: 0px 5px 0px 5px;
+        font-weight: bolder;
+        font-size: 2em;
+    }
+    .active{
+        color: #c2c2bc;
+    }
+    .inactive {
+        color: #b35215;
+    }
+    
+    header nav#menu ul li :hover{
+        color: #2e2a27;
+    }
+    
+    #TF2-logo {
+        height: 64px;
+        max-width: 100%;
+        float: left;
+    }
+    
+    /*-----------------------------MAIN-----------------------------*/
+    
+    main {
+        text-align: left;
+    }
+    main h2 {
+        text-align: center;
+    }
+    
+    /*~~~~~~~~INDEX~~~~~~~~*/
+    #model {
+        float: right;
+        text-align: center;
+        border: 3px solid gray;
+        padding: 5px;
+        background-color: #2e2a27;
+        color: #c2c2bc;
+    }
+    #modelcap {max-width: 200px;}
+    img#modelpic {
+        width: 200px;
+        height: 306px;
+        max-width: 100%;
+        border: 3px solid gray;
+    }
+    img#modelpic:hover {border: 3px solid #2e2a27}
+    
+    section#speed {
+        margin: 0 auto;
+    }
+    section#speed table th,section#speed table td{
+        border: 3px solid gray;
+        padding: 5px;
+    }
+    section#speed table th {
+        background-color: #f3a957;
+    }
+    section#speed table td {
+        background-color: #c2c2bc;
+    }
+    
+    caption {
+        text-align: center;
+        caption-side: top;
+    }
+    
+    aside {
+        border-left: 1px solid #2e2a27;
+        font-size: 80%;
+        padding: 10px;
+    }
+    
+    /*~~~~~~~~STORY~~~~~~~~*/
+    #comic {
+        float: right;
+        text-align: center;
+        border: 3px solid gray;
+        padding: 5px;
+        background-color: #2e2a27;
+        color: #c2c2bc;
+    }
+    #comiccap {max-width: 247px;}
+    img#comicpic {
+        max-width: 100%;
+        border: 3px solid gray;
+    }
+    img#comicpic:hover {border: 3px solid #2e2a27}
+    
+    #profile {
+        float: left;
+        text-align: center;
+        border: 3px solid gray;
+        padding: 5px;
+        background-color: #2e2a27;
+        color: #c2c2bc;
+        margin-right: 10px;
+    }
+    #profilecap {max-width: 150px;}
+    img#profilepic {
+        max-width: 100%;
+        border: 3px solid gray;
+    }
+    img#profilepic:hover {border: 3px solid #2e2a27}
+    
+    /*~~~~~~~~ART~~~~~~~~*/
+    .column, .column3 {
+        text-align: center;
+    }
+    
+    #all figure {
+        width: 158px;
+        height: 158px;
+        text-align: center;
+        padding: 5px;
+        border: 3px solid gray;
+        background-color: #2e2a27;
+        color: #c2c2bc;
+    }
+    #all figure img {
+        max-width: 100%;
+        border: 3px solid gray;
+    }
+    #all figure img:hover {border: 3px solid #2e2a27}
+
+    #videohider a:link{color:blue}
+    #videohider a:visited{color: #2e2a27}
+    
+    /*~~~~~~~~FEEDBACK~~~~~~~~*/
+    #formid {
+        border: 3px solid gray;
+        padding: 10px;
+    }
+    #formfield fieldset {
+        border: 3px solid gray;
+        padding: 10px;
+    } 
+    
+    /*-----------------------------FOOTER-----------------------------*/
+    
+    footer{
+        background-color: #b35215;
+    }
+    footer p{text-align: center;}
+    footer a:link{color:blue}
+    footer a:visited{color: #c2c2bc}
+    
+    section#sources h2 {
+        font-size: 1em;
+        text-align: center;
+    }
+}
+
+@media (min-width:961px)
+{
+    .column {
+      float: left;
+      width: 50%;
+    }
+    .column3 {
+      width: 100%;
+    }
+
+    .artrow:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+}
+@media (min-width:1281px)
+{
+    .column {
+      float: left;
+      width: 33.33%;
+    }
+    .column3 {
+        float: left;
+        width: 33.33%;
+      }
+    
+    .artrow:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+}

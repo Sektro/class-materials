@@ -1,0 +1,18 @@
+-- π nev σ gyumolcs = 'alma' szeret ∩ π nev σ gyumolcs = 'körte' szeret 
+-- ρ death_of_an_optimist←nev π nev σ gyumolcs = 'alma' szeret
+-- Legalább 2 gyümölcsöt szeretnek:
+-- π sz1.nev σ sz1.nev = sz2.nev and sz1.gyumolcs <> sz2.gyumolcs (ρ sz1 szeret ⨯ ρ sz2 szeret)
+
+-- KING beosztottjai:
+-- π beo.dnev σ fon.dkod = beo.fonoke and fon.dnev = 'KING' (ρ beo dolgozo ⨯ ρ fon dolgozo) 
+
+-- Ki szeret legalább 3 gyümölcsöt szeret:
+-- π sz1.nev σ (sz1.nev = sz2.nev and sz2.nev = sz3.nev) and (sz1.gyumolcs != sz2.gyumolcs and sz2.gyumolcs != sz3.gyumolcs and sz1.gyumolcs != sz3.gyumolcs) (ρ sz1 szeret ⨯ ρ sz2 szeret ⨯ ρ sz3 szeret)
+
+-- legfeljebb 2 különböző gyümölcsöt szeret:
+-- π nev szeret - π sz1.nev σ (sz1.nev = sz2.nev and sz2.nev = sz3.nev) and (sz1.gyumolcs != sz2.gyumolcs and sz2.gyumolcs != sz3.gyumolcs and sz1.gyumolcs != sz3.gyumolcs) (ρ sz1 szeret ⨯ ρ sz2 szeret ⨯ ρ sz3 szeret)
+
+-- Csak 1 gyümölcsöt szeret:
+π nev szeret - π sz1.nev σ sz1.nev = sz2.nev and sz1.gyumolcs <> sz2.gyumolcs (ρ sz1 szeret ⨯ ρ sz2 szeret)
+
+

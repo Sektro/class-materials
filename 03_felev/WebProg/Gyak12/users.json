@@ -1,0 +1,18 @@
+[
+    {
+        "username": "csongor",
+        "password": "$2y$10$jl6KaBxUQENE8OAxMkV6k.yYpXQtkoyQLtzHJOAec1jvfVrsEy6ae"
+    },
+    {
+        "username": "tunde",
+        "password": "$2y$10$7bYsyAa5jqxqqro7y4kOieFeMGJLbTHc1dj9qhkxgYds7pmTLwuYe"
+    },
+    {
+        "username": "user2",
+        "password": "$2y$10$QCEkMe8VxtepMXHlTnFhduL0dhcyEYmpGsVvtET6RtzPGxeRbpeji"
+    },
+    {
+        "username": "admin",
+        "password": "$2y$10$Ms6dY2kYt8TDxY82BIdd8.7zfUGwfSwt1/jdjXbEA5pcRp/H0hXVi"
+    }
+]

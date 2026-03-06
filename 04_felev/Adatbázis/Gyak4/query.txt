@@ -1,0 +1,9 @@
+-- σfizetes≤felso and  fizetes≥also and kategoria = 1 (ρd Dolgozo ⨝ ρo Osztaly) ⨯ Fiz_kategoria
+-- zárójel kell, különben nem látja a Fiz_kategoria-t a szűrés
+-- σfizetes≤felso and  fizetes≥also and kategoria = 1 ((ρd Dolgozo ⨝ ρo Osztaly) ⨯Fiz_kategoria)
+-- πonev, telephely Osztaly
+-- -
+-- πonev, telephelyσfizetes≤felso and  fizetes≥also and kategoria = 1 ((ρd Dolgozo ⨝ ρo Osztaly) ⨯ Fiz_kategoria)
+τ onev (π onev, av+100→fiz_plus
+(σ cnt>3 (γ onev;avg(fizetes)→av,count(dkod)→cnt (σ d.oazon=o.oazon
+(ρ d Dolgozo ⨯ ρ o Osztaly)))))

@@ -1,0 +1,86 @@
+{
+    "6595c8673b65a": {
+        "id": "6595c8673b65a",
+        "title": "Astro Bot",
+        "developer": "Asobi",
+        "rating": 5
+    },
+    "6595c8673b65b": {
+        "id": "6595c8673b65b",
+        "title": "Final Fantasy VII: Rebirth",
+        "developer": "Square Enix",
+        "rating": 5
+    },
+    "6595c8673b65d": {
+        "id": "6595c8673b65d",
+        "title": "The Talos Principle 2: Road to Elysium",
+        "developer": "Croteam",
+        "rating": 4
+    },
+    "6595c8673b66b": {
+        "id": "6595c8673b66b",
+        "title": "Metaphor: Refantazio",
+        "developer": "ATLUS",
+        "rating": 2
+    },
+    "6595c8673b66d": {
+        "id": "6595c8673b66d",
+        "title": "Like A Dragon: Infinite Wealth",
+        "developer": "Ryu Ga Gotoku Studio",
+        "rating": 3
+    },
+    "6595c8673b66e": {
+        "id": "6595c8673b66e",
+        "title": "Balatro",
+        "developer": "LocalThunk",
+        "rating": 3
+    },
+    "6595c8673b67a": {
+        "id": "6595c8673b67a",
+        "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "developer": "GSC Game World",
+        "rating": 2
+    },
+    "6595c8673b67b": {
+        "id": "6595c8673b67b",
+        "title": "Silent Hill 2",
+        "developer": "Bloober Team",
+        "rating": 5
+    },
+    "674449c0ea6cd": {
+        "title": "Lolla",
+        "developer": "Ubisoft",
+        "rating": "2",
+        "id": "674449c0ea6cd"
+    },
+    "674449f6726d3": {
+        "title": "Malar2",
+        "developer": "Asobi",
+        "rating": "5",
+        "id": "674449f6726d3"
+    },
+    "67444b1402a07": {
+        "title": "xx",
+        "developer": "Asobi",
+        "rating": "1",
+        "id": "67444b1402a07"
+    },
+    "67444cc03daf3": {
+        "title": "Lalalaafee",
+        "developer": "Asobi",
+        "rating": "4",
+        "id": "67444cc03daf3"
+    },
+    "67444cd3ca8a5": {
+        "title": "454",
+        "developer": "Asobi",
+        "rating": "1",
+        "id": "67444cd3ca8a5"
+    },
+    "67444cf594331": {
+        "title": "Tamara",
+        "developer": "Asobi",
+        "rating": "1",
+        "id": "67444cf594331"
+    }
+}

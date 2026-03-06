@@ -1,0 +1,23 @@
+simulation
+new 500 20 4
+villain 45 20 5 # should not get attacked by Robin, that's HP thug's job
+thug 2 2
+thug 2 2
+thug 2 5
+thug 200 10
+thug 8 5
+villain 34 1000 0
+thug 2000 2000 # should not be attacked by Robin
+villain 25 100 0
+round
+status
+round
+status
+round
+status # villain with 1000 is killed
+round
+status # many thugs
+round 2
+status # other villain killed
+round
+status # last villain killed, ultrathug vaporizes Batman, power is 2024

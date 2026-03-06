@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\plush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:plush.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\targetshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:targetshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:l.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\xl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:xl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf10\\ampark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{958B0E1A-2A24-47F1-B3A8-4F58E48EF5DF}|HF10.csproj|solutionrelative:ampark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "S.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\S.cs",
+              "RelativeDocumentMoniker": "S.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\S.cs",
+              "RelativeToolTip": "S.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:55.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "M.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\M.cs",
+              "RelativeDocumentMoniker": "M.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\M.cs",
+              "RelativeToolTip": "M.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:52.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "L.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\L.cs",
+              "RelativeDocumentMoniker": "L.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\L.cs",
+              "RelativeToolTip": "L.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:52.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "XL.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\XL.cs",
+              "RelativeDocumentMoniker": "XL.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\XL.cs",
+              "RelativeToolTip": "XL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:56.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Size.cs",
+              "RelativeDocumentMoniker": "Size.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Size.cs",
+              "RelativeToolTip": "Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:55.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Ball.cs",
+              "RelativeDocumentMoniker": "Ball.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Ball.cs",
+              "RelativeToolTip": "Ball.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:49.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Figure.cs",
+              "RelativeDocumentMoniker": "Figure.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Figure.cs",
+              "RelativeToolTip": "Figure.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:50.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Plush.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Plush.cs",
+              "RelativeDocumentMoniker": "Plush.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Plush.cs",
+              "RelativeToolTip": "Plush.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:53.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Gift.cs",
+              "RelativeDocumentMoniker": "Gift.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Gift.cs",
+              "RelativeToolTip": "Gift.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:51.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TargetShot.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\TargetShot.cs",
+              "RelativeDocumentMoniker": "TargetShot.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\TargetShot.cs",
+              "RelativeToolTip": "TargetShot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:56.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Guest.cs",
+              "RelativeDocumentMoniker": "Guest.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Guest.cs",
+              "RelativeToolTip": "Guest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:51.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AmPark.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\AmPark.cs",
+              "RelativeDocumentMoniker": "AmPark.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\AmPark.cs",
+              "RelativeToolTip": "AmPark.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:15:49.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T18:13:30.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

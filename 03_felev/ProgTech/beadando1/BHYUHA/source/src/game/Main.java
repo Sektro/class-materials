@@ -1,0 +1,39 @@
+package game;
+
+import game.board.Tile;
+import game.board.tiles.Luck;
+import game.board.tiles.Property;
+import game.board.tiles.Service;
+
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Game game = new Game();
+        Scanner fileSc = new Scanner(System.in);
+        System.out.println("Enter filename:");
+        try {
+            String filename = fileSc.nextLine();
+            game.read("test/" + filename);
+            if (game.simulation()) {
+                System.out.println();
+                System.out.println("Game Finished!");
+            }
+            else {
+                System.out.println();
+                System.out.println("Secret Ending Unlocked!");
+            }
+        }
+        catch (FileNotFoundException e) {
+            System.out.println("File not found!");
+            System.exit(-1);
+        }
+        catch (InvalidInputException e) {
+            System.out.println("Invalid input!");
+            System.exit(-1);
+        }
+    }
+}

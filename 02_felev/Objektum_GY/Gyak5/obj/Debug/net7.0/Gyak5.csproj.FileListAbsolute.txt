@@ -1,0 +1,14 @@
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\bin\Debug\net7.0\Gyak5.exe
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\bin\Debug\net7.0\Gyak5.deps.json
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\bin\Debug\net7.0\Gyak5.runtimeconfig.json
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\bin\Debug\net7.0\Gyak5.dll
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\bin\Debug\net7.0\Gyak5.pdb
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\obj\Debug\net7.0\Gyak5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\obj\Debug\net7.0\Gyak5.AssemblyInfoInputs.cache
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\obj\Debug\net7.0\Gyak5.AssemblyInfo.cs
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\obj\Debug\net7.0\Gyak5.csproj.CoreCompileInputs.cache
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\obj\Debug\net7.0\Gyak5.dll
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\obj\Debug\net7.0\refint\Gyak5.dll
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\obj\Debug\net7.0\Gyak5.pdb
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\obj\Debug\net7.0\Gyak5.genruntimeconfig.cache
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak5\obj\Debug\net7.0\ref\Gyak5.dll

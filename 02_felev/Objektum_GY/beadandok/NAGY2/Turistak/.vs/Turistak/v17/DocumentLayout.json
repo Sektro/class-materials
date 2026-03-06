@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2A16193-06B6-4365-A18C-6CC8F3ECE3F7}|..\\TuristakTest\\TuristakTest.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistaktest\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistak\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistak\\lepusztult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|solutionrelative:lepusztult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistak\\allapot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|solutionrelative:allapot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistak\\atlagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|solutionrelative:atlagos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistak\\japan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|solutionrelative:japan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistak\\varos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|solutionrelative:varos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistak\\turista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|solutionrelative:turista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistak\\jo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|solutionrelative:jo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistak\\nyugati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|solutionrelative:nyugati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|c:\\users\\kolos\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\nagy2\\turistak\\egyeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE320373-5274-43E2-B4AB-5C27DD1E9592}|Turistak.csproj|solutionrelative:egyeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\TuristakTest\\Tests.cs",
+              "RelativeDocumentMoniker": "..\\TuristakTest\\Tests.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\TuristakTest\\Tests.cs",
+              "RelativeToolTip": "..\\TuristakTest\\Tests.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwEsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T16:14:28.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Egyeb.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Egyeb.cs",
+              "RelativeDocumentMoniker": "Egyeb.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Egyeb.cs",
+              "RelativeToolTip": "Egyeb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:41:39.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Nyugati.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Nyugati.cs",
+              "RelativeDocumentMoniker": "Nyugati.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Nyugati.cs",
+              "RelativeToolTip": "Nyugati.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:41:31.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Japan.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Japan.cs",
+              "RelativeDocumentMoniker": "Japan.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Japan.cs",
+              "RelativeToolTip": "Japan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:41:22.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Turista.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Turista.cs",
+              "RelativeDocumentMoniker": "Turista.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Turista.cs",
+              "RelativeToolTip": "Turista.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:41:09.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jo.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Jo.cs",
+              "RelativeDocumentMoniker": "Jo.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Jo.cs",
+              "RelativeToolTip": "Jo.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:13:49.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Atlagos.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Atlagos.cs",
+              "RelativeDocumentMoniker": "Atlagos.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Atlagos.cs",
+              "RelativeToolTip": "Atlagos.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:13:40.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lepusztult.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Lepusztult.cs",
+              "RelativeDocumentMoniker": "Lepusztult.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Lepusztult.cs",
+              "RelativeToolTip": "Lepusztult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:13:30.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Allapot.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Allapot.cs",
+              "RelativeDocumentMoniker": "Allapot.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Allapot.cs",
+              "RelativeToolTip": "Allapot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:03:08.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Varos.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Varos.cs",
+              "RelativeDocumentMoniker": "Varos.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Varos.cs",
+              "RelativeToolTip": "Varos.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAkwGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T17:13:12.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kolos\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\NAGY2\\Turistak\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:54:45.524Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

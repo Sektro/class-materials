@@ -1,0 +1,7 @@
+public class Complex
+{
+    double re;
+    double im;
+
+
+}

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game</title>
+    <!--<link href="css/bcss/bootstrap.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" type="text/css" href="css/game.css">
+</head>
+<body>
+    <main>
+        <div id="menu">
+            <div id="big-title-row">
+                <img src="pics/props/railways.png" alt="" id="big-title">
+            </div>
+            <div class="name-lane">
+                <input type="text" name="" placeholder="ADD MEG A NEVED!" id="name-input">
+            </div>
+            <div class="button-lane">
+                <div class="sizes-whole">
+                    <div class="extra-line">
+                        <p>ÁLLÍTS BE NEHÉZSÉGET!</p>
+                    </div>
+                    <div class="sizes">
+                        <div id="difficulty-column">
+                            <button id="button5">5 X 5</button>
+                            <label for="button5"><b>KÖNNYŰ</b></label>
+                        </div>
+                        <div id="difficulty-column">
+                            <button id="button7">7 X 7</button>
+                            <label for="button7"><b>NEHÉZ</b></label>
+                        </div>
+                    </div>
+                </div>
+                <div class="buttons">
+                    <button id="description-button">LEÍRÁS</button>
+                    <button id="start-game">JÁTÉK INDÍTÁSA</button>
+                </div>
+            </div>
+        </div>
+        <div id="description">
+            <div id="description-text">
+                A játék egy vasút építéséről szól. <br>
+                A cél, hogy az egész pályát beterítsd sínnel, úgy, hogy körbe lehessen menni rajta egy vonattal (egy vonalban). <br>
+                Ezt fogják nehezíteni a különböző terepelemek amelyek elirányítják a sínedet (hegyek, hídak), vagy teljesen meg is akadályozzák hogy lerakj egyet (tavak). <br>
+                Bal egérgombbal lerakhatsz-felvehetsz síneket, illetve elkanyaríthatod őket, jobb egérgombbal pedig elforgathatod ezeket. <br>
+                Az oldal időben fogja mérni a teljesítményedet, miközben játszol. <br>
+                Sok szerencsét, és jó játékot! <br>
+            </div>
+            <button id="close-description">Leírás bezárása</button>
+        </div>
+        <div id="actual-game">
+            <div id="ingame-menu">
+                <img src="pics/props/railways.png" alt="" id="small-title">
+                <section>
+                    <p>ÚTVONALTERVEZŐ:</p>
+                    <p id="player">Kakuja</p>
+                    <p>ELTELT IDŐ:</p>
+                    <p id="time-passed">0:00</p>
+                </section>
+            </div>
+            <div id="board">
+                <table>
+                </table>
+            </div>
+        </div>
+        <div id="win-message">
+            <div id="win-message-text">
+                Gratulálunk! Megnyerted a játékot!
+            </div>
+            <button id="close-win-message">Vissza a menübe</button>
+        </div>
+    </main>
+    
+    <script src="js/game.js"></script>
+</body>
+</html>

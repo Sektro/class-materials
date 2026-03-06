@@ -1,0 +1,13 @@
+@import url(normal.css);
+
+body {
+    font-size: 200%;
+}
+
+h1, h2 {
+    font-size: 200%;
+}
+
+.btn {
+    font-size: 200%;
+}

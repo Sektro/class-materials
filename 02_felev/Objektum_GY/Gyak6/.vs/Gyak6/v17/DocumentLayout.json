@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OneDrive\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\Gyak6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{399DB00A-E591-47E2-8F98-8F97643E93D1}|Gyak6.csproj|d:\\onedrive\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\gyak6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399DB00A-E591-47E2-8F98-8F97643E93D1}|Gyak6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399DB00A-E591-47E2-8F98-8F97643E93D1}|Gyak6.csproj|d:\\onedrive\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\gyak6\\electronicsenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399DB00A-E591-47E2-8F98-8F97643E93D1}|Gyak6.csproj|solutionrelative:electronicsenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399DB00A-E591-47E2-8F98-8F97643E93D1}|Gyak6.csproj|d:\\onedrive\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\gyak6\\intenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399DB00A-E591-47E2-8F98-8F97643E93D1}|Gyak6.csproj|solutionrelative:intenumerable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectronicsEnumerable.cs",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\Gyak6\\ElectronicsEnumerable.cs",
+              "RelativeDocumentMoniker": "ElectronicsEnumerable.cs",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\Gyak6\\ElectronicsEnumerable.cs",
+              "RelativeToolTip": "ElectronicsEnumerable.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwBsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:37:21.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntEnumerable.cs",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\Gyak6\\IntEnumerable.cs",
+              "RelativeDocumentMoniker": "IntEnumerable.cs",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\Gyak6\\IntEnumerable.cs",
+              "RelativeToolTip": "IntEnumerable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:37:21.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\OneDrive\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\Gyak6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\OneDrive\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\Gyak6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:37:21.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

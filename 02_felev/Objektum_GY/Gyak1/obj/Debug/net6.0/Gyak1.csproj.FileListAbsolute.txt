@@ -1,0 +1,14 @@
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\bin\Debug\net6.0\Gyak1.exe
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\bin\Debug\net6.0\Gyak1.deps.json
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\bin\Debug\net6.0\Gyak1.runtimeconfig.json
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\bin\Debug\net6.0\Gyak1.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\bin\Debug\net6.0\Gyak1.pdb
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\obj\Debug\net6.0\Gyak1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\obj\Debug\net6.0\Gyak1.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\obj\Debug\net6.0\Gyak1.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\obj\Debug\net6.0\Gyak1.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\obj\Debug\net6.0\Gyak1.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\obj\Debug\net6.0\refint\Gyak1.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\obj\Debug\net6.0\Gyak1.pdb
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\obj\Debug\net6.0\Gyak1.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak1\obj\Debug\net6.0\ref\Gyak1.dll

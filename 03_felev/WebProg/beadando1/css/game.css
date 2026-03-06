@@ -1,0 +1,293 @@
+@media screen {
+    body {
+        background: linear-gradient(45deg, rgb(245,246,232), rgb(218,228,175), rgb(248,250,240));
+        background-size: 900% 200%;
+        height: 90vh;
+        animation: animate 20s linear infinite;
+        justify-content: center;
+        align-content: center;
+        display: grid;
+        grid-template-columns: minmax(1100px,60%);
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    @keyframes animate{
+        0%{
+            background-position: 0% 50%;
+        }
+        50%{
+            background-position: 100% 50%;
+        }
+        0%{
+            background-position: 0% 50%;
+        }
+    }
+    
+    main {
+        justify-content: center;
+        margin: 0 auto 0 auto;
+        height: auto;
+        width: 80%;
+    }
+    /*
+    .content {
+        max-width: 1100px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 110px;
+        position: relative;
+    }
+    */
+
+    
+    /*----CONTROLLER----*/
+    #menu {
+        display: grid;
+        position: relative;
+        justify-content: center;
+        width: 100%;
+    }
+    #actual-game {
+        max-height: 800px;
+        position: relative;
+        z-index: 2;
+        display: grid;
+        grid-template-columns: auto auto;
+        justify-content: center;
+    }
+    #description {
+        border: solid 15px;
+        border-radius: 10px;
+        border-color: rgb(144, 118, 81);
+        background-color: white;
+        position: relative;
+        z-index: 3;
+        display: grid;
+        grid-template-columns: auto;
+        justify-content: center;
+        justify-items: center;
+        margin-top: 100px;
+    }
+
+
+
+
+
+
+
+
+
+
+    /*----MENU----*/
+    #big-title-row {
+        display: grid;
+        justify-content: center;
+    }
+    img#big-title {
+        object-fit: cover;
+        width: 821px;
+        height: 140px;
+    }
+
+    button {
+        width: 240px;
+        height: 110px;
+    }
+
+    .name-lane {
+        width: 820px;
+        border: solid 5px;
+        border-radius: 10px;
+        border-color: rgb(212, 183, 119);
+        margin-top: 20px;
+        margin-bottom: 20px;
+        padding: 0px;
+        background-color: white;
+        display: flex;
+        justify-items: center;
+        height: 95px;
+    }
+    .name-lane input {
+        text-align: left;
+        border: none;
+        background-color: transparent;
+        width: 100%;
+        font-size: 30px;
+        padding: 20px;
+    }
+    .name-lane input::placeholder {
+        font-weight: bold;
+        color: rgb(214, 201, 170);
+    }
+    
+    .button-lane {
+        height: 240px;
+        width: 830px;
+        font-weight: bold;
+        display: grid;
+        grid-template-columns: auto 260px;
+    }
+    .button-lane button {
+        font-size: 30px;
+        font-weight: bold;
+        border: solid 5px;
+        border-radius: 10px;
+        border-color: rgb(180, 191, 163);
+        background-color: white;
+    }
+    .button-lane button:hover {
+        border-color: rgb(157, 172, 136);
+    }
+
+    .sizes-whole {
+        width: 100%;
+        height: auto;
+        border: solid 5px;
+        border-radius: 10px;
+        border-color: rgb(180, 191, 163);
+        background-color: white;
+        color: rgb(180, 191, 163);
+    }
+    .sizes-whole button {
+        color: rgb(180, 191, 163);
+        background-color: white;
+    }
+    .extra-line {
+        display: grid;
+        height: 50px;
+    }
+    .extra-line p {
+        justify-self: center;
+        font-size: 30px;
+        font-weight: bold;
+        margin: 20px 0px 0px 0px;
+    }
+    .sizes {
+        justify-self:  center;
+        align-content: center;
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+    #difficulty-column{
+        margin: 20px;
+        display: grid;
+        justify-items: center;
+    }
+    .sizes label {
+        margin-top: 5px;
+    }
+    .buttons {
+        align-content: center;
+        display: grid;
+        grid-template-columns: auto;
+        justify-content: end;
+    }
+    .buttons #description-button {
+        color: rgb(80, 81, 104);
+        background-color: rgb(234, 239, 211);
+    }
+    .buttons #start-game {
+        border-color: rgb(144, 142, 149);
+        background-color: rgb(164, 165, 172);
+        color: rgb(251, 253, 247);
+    }
+
+    #start-game {
+        margin-top: 10px;
+    }
+
+
+
+
+
+
+
+
+    /*----DESCRIPTION----*/
+
+    #description-text {
+        font-size: 25px;
+        margin: 10px;
+        font-weight: bold;
+        color: rgb(77, 66, 50);
+    }
+    #close-description {
+        margin: 10px;
+        font-size: 30px;
+        font-weight: bold;
+        border: solid 5px;
+        border-radius: 10px;
+        border-color: rgb(180, 191, 163);
+        background-color: rgb(234, 239, 211);
+    }
+    #close-description:hover {
+        border-color: rgb(157, 172, 136);
+    }
+
+
+
+
+
+
+
+
+
+
+    /*----GAME----*/
+    table {
+        background-image: url("../pics/levels/easy/level_e1.png"); 
+        background-size: cover;
+        border: solid 15px;
+        border-radius: 10px;
+        border-color: rgb(144, 118, 81);
+        margin: 10px;
+        table-layout:fixed;
+        width:100%;
+        max-width: 500px;
+    }
+    table td {
+        width: 100px;
+        height: 100px;
+        background-size: 100px 100px;
+    }
+    #board {
+        margin: 10px;
+    }
+    #ingame-menu {
+        float: left;
+        width: 30%;
+        margin: 10px;
+        min-width: 500px;
+    }
+    #ingame-menu img {
+        width: 400px;
+        padding: 5px;
+        margin: 10px;
+    }
+    #ingame-menu section {
+        border: solid 5px;
+        border-radius: 10px;
+        border-color: rgb(212, 183, 119);
+        width: auto;
+        min-width: 300px;
+        max-width: 400px;
+        margin: 10px;
+        padding: 5px;
+        background-color: rgb(245,246,232);
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+    }
+    #ingame-menu section p {
+        margin: 10px;
+    }
+    #player {
+        font-size: 50px;
+        border-bottom: 1px solid rgb(212, 183, 119);
+    }
+    #time-passed {
+        font-size: 50px;
+    }
+
+    
+}

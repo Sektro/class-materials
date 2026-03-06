@@ -1,0 +1,107 @@
+/* zh2.css */
+
+body {
+    background-color: #121212;
+    color: #E0E0E0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#content {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #1E1E1E;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.6);
+}
+
+h2, h3 {
+    color: #FFCA28;
+    border-bottom: 2px solid #FFCA28;
+    padding-bottom: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    color: #E0E0E0;
+}
+
+table th, table td {
+    padding: 12px 15px;
+    text-align: left;
+}
+
+table th {
+    background-color: #2E2E2E;
+    color: #FFA726;
+    border-bottom: 2px solid #FFA726;
+}
+
+table tr:nth-child(odd) {
+    background-color: #252525;
+}
+
+table tr:nth-child(even) {
+    background-color: #2E2E2E;
+}
+
+table tr:hover {
+    background-color: #424242;
+    cursor: pointer;
+}
+
+table .star img {
+    height: 16px;
+    margin-right: 4px;
+}
+
+form {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #1E1E1E;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.6);
+}
+
+form .input {
+    margin-bottom: 15px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+    color: #FFCA28;
+}
+
+form input, form select, form button {
+    width: 100%;
+    padding: 10px;
+    font-size: 14px;
+    border: 1px solid #555;
+    border-radius: 4px;
+    background-color: #2E2E2E;
+    color: #E0E0E0;
+}
+
+form input:focus, form select:focus, form button:hover {
+    outline: none;
+    border-color: #FFA726;
+    box-shadow: 0 0 5px rgba(255, 167, 38, 0.8);
+}
+
+form button {
+    background-color: #FFCA28;
+    color: #121212;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #FFA726;
+}

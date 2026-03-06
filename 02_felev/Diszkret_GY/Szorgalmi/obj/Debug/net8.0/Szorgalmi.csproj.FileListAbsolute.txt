@@ -1,0 +1,14 @@
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\bin\Debug\net8.0\Szorgalmi.exe
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\bin\Debug\net8.0\Szorgalmi.deps.json
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\bin\Debug\net8.0\Szorgalmi.runtimeconfig.json
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\bin\Debug\net8.0\Szorgalmi.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\bin\Debug\net8.0\Szorgalmi.pdb
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\obj\Debug\net8.0\Szorgalmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\obj\Debug\net8.0\Szorgalmi.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\obj\Debug\net8.0\Szorgalmi.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\obj\Debug\net8.0\Szorgalmi.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\obj\Debug\net8.0\Szorgalmi.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\obj\Debug\net8.0\refint\Szorgalmi.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\obj\Debug\net8.0\Szorgalmi.pdb
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\obj\Debug\net8.0\Szorgalmi.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\Szorgalmi\obj\Debug\net8.0\ref\Szorgalmi.dll

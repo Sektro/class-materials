@@ -1,0 +1,14 @@
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\bin\Debug\net8.0\4szorg.exe
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\bin\Debug\net8.0\4szorg.deps.json
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\bin\Debug\net8.0\4szorg.runtimeconfig.json
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\bin\Debug\net8.0\4szorg.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\bin\Debug\net8.0\4szorg.pdb
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\obj\Debug\net8.0\4szorg.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\obj\Debug\net8.0\4szorg.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\obj\Debug\net8.0\4szorg.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\obj\Debug\net8.0\4szorg.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\obj\Debug\net8.0\4szorg.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\obj\Debug\net8.0\refint\4szorg.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\obj\Debug\net8.0\4szorg.pdb
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\obj\Debug\net8.0\4szorg.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Diszkret_GY\4szorg\obj\Debug\net8.0\ref\4szorg.dll

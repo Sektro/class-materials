@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SpyFanPage - Feedback</title>
+  <link href="css/bcss/bootstrap.min.css" rel="stylesheet">
+  <link rel="alternate stylesheet" href="css/uppercase.css" title="uppercase">
+  <link rel="stylesheet" type="text/css" href="css/normal.css" title="normal">
+  <link rel="stylesheet" href="css/print.css" media="print">
+</head>
+<body>
+  <nav class="outofbounds">
+    <a href="#maincontent">Jump to content</a>
+  </nav>
+  
+  <header>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-md-3">
+          <img id="TF2-logo" src="pics/logo.png" alt="TF2 Logo">
+        </div>
+        <div class="col-12 col-md-6">
+          <h1>SpyFanPage - Feedback</h1>
+        </div>
+        
+	    <nav id="handicapped"><a id="bigletter" href="#" onclick="setActiveStyleSheet('uppercase'); return false;">Uppercase version</a>
+        <a id="normalletter" href="#" onclick="setActiveStyleSheet('normal'); return false;">Normal version</a>
+      </nav>
+      
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <nav id="menu">
+            <ul class="nav justify-content-center">
+              <li class="nav-item">
+                <a class="nav-link inactive" href="index.html">Game</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link inactive" href="story.html">Story</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link inactive" href="art.html">Art</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="#">Feedback</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+  
+  <main id="maincontent">
+    <div class="container">
+      <article class="row">
+        <div class="col-12">
+          <div class="content">
+            <h2>Form</h2>
+            <div class="row">
+              <div class="col-12">
+                <div class="content">
+                  <p>Welcome to the Feedback section!</p>
+                  <p>Here you may write a comment about the website. If you read something that you think was not correct you can tell us about it here. We even put a reference block so you could link the website with the correct information! Or alternatively you could just share your overall experience with the website or the Spy in general. We would love to read about your gaming adventures with the class we all know and love. Just make sure to keep your stories short!</p>
+                </div>
+              </div>
+            </div>
+            <form action="mailto:sandor.kolos@gmail.com" method="post" enctype="text/plain" id="formid">
+              <div class="row" id="formfield">
+                <div class="col-12 col-md-6">
+                  <fieldset>
+                    <label for="referencefield"><b>Reference</b></label>
+                    <input class="w-100" type="url" size="60" name="referencelink" id="referencefield" placeholder="Paste your reference URL"><br>
+                  </fieldset>
+                  <br>
+                  <fieldset>
+                    <label for="commentfield"><b>Write a short comment on the website!</b></label><br>
+                    <textarea class="w-100" cols="60" rows="10" name="comment" id="commentfield"
+                      placeholder="Helpful and positive comments are always well received."></textarea>
+                  </fieldset>
+                  <br>
+                </div>
+                <div class="col-12 col-md-6">
+                  <fieldset>
+                    <p><b>How would you rate our website?</b><br>
+                      <input type="radio" name="rating" id="v1" value="1">
+                      <label for="v1">1</label>
+                      <input type="radio" name="rating" id="v2" value="2">
+                      <label for="v2">2</label>
+                      <input type="radio" name="rating" id="v3" value="3">
+                      <label for="v3">3</label>
+                      <input type="radio" name="rating" id="v4" value="4">
+                      <label for="v4">4</label>
+                      <input type="radio" name="rating" id="v5" value="5">
+                      <label for="v5">5</label>
+                    </p>
+                  </fieldset>
+                  <br>
+                  <fieldset>
+                    <label for="username"><strong>Username:</strong></label><br>
+                    <input class="w-100" type="text" name="username" id="username" size="60" placeholder="Your name:"><br>
+                    <label for="email"><b>E-mail</b></label><br>
+                    <input class="w-100" type="email" name="email" id="email" size="60" placeholder="your E-mail address"><br>
+                    <input type="checkbox" name="tfgaming" id="tfgaming" value="Yes I have played Team Fortress 2 before">
+                    <label for="tfgaming">I have played Team Fortress 2 before</label> <br>
+                    <input type="checkbox" name="spygaming" id="spygaming" value="Yes I have played Spy before">
+                    <label for="spygaming">I have played Spy before</label>
+                  </fieldset>
+                  <br>
+                  <fieldset>
+                    <input type="submit" value="Send" class="btn btn-primary">
+                    <input type="reset" value="Reset" class="btn btn-danger">
+                  </fieldset>
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+      </article>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <p><a href="#top">Back to the top</a></p>
+          <p>&copy; 2024 SpyFanPage</p>
+          <section id="sources">
+            <h2>Sources:</h2>
+            <p><a href="https://www.teamfortress.com/classes.php?class=spy">Official Team Fortress 2 website</a> <br>
+              <a href="https://wiki.teamfortress.com/wiki/Spy">Team Fortress 2 wiki</a> <br>
+              <a href="https://teamfortress.fandom.com/wiki/Spy">Team Fortress 2 fandom</a></p>
+          </section>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+<script src="scripts/bjs/bootstrap.min.js"></script>
+<script src="scripts/styleswitcher.js"></script>
+</body>
+</html>

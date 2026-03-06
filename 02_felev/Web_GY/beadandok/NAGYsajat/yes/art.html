@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SpyFanPage - Art</title>
+  <link href="css/bcss/bootstrap.min.css" rel="stylesheet">
+  <link rel="alternate stylesheet" href="css/uppercase.css" title="uppercase">
+  <link rel="stylesheet" type="text/css" href="css/normal.css" title="normal">
+  <link rel="stylesheet" href="css/print.css" media="print">
+</head>
+<body>
+  <nav class="outofbounds">
+    <a href="#maincontent">Jump to content</a>
+  </nav>
+  
+  <header>
+    <div class="container">
+      <div class="row">
+        <div class="col-12 col-md-3">
+          <img id="TF2-logo" src="pics/logo.png" alt="TF2 Logo">
+        </div>
+        <div class="col-12 col-md-6">
+          <h1>SpyFanPage - Art</h1>
+        </div>
+        
+	    <nav id="handicapped"><a id="bigletter" href="#" onclick="setActiveStyleSheet('uppercase'); return false;">Uppercase version</a>
+        <a id="normalletter" href="#" onclick="setActiveStyleSheet('normal'); return false;">Normal version</a>
+      </nav>
+      
+      </div>
+      <div class="row">
+        <div class="col-12">
+          <nav id="menu">
+            <ul class="nav justify-content-center">
+              <li class="nav-item">
+                <a class="nav-link inactive" href="index.html">Game</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link inactive" href="story.html">Story</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="#">Art</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link inactive" href="feedback.html">Feedback</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </header>
+  
+  <main id="maincontent">
+    <div class="artrow">
+      <div class="col-12">
+        <div class="content" id="all">
+          <div class="column">
+            <figure >
+              <a href="pics/art/fanart_fish.jpg" target="_blank"><img src="pics/art/mini/minifish.png" alt="A fanart showing a red Spy with a fish in his mask instead of a human face (the full picture has two spies from different teams with the same characteristics)"></a>
+            </figure>
+            <figure >
+              <a href="pics/art/portrait2.jpg" target="_blank"><img src="pics/art/mini/miniportrait.png" alt="An official portait of the Spy looking serious created in the classic Team Fortress 2 artstyle"></a>
+            </figure>
+          </div>
+          <div class="column">
+            <figure >
+              <a href="pics/art/fanart_ambassador.png" target="_blank"><img src="pics/art/mini/miniambassador.png" alt="A red Spy pointing the Ambassador at the camera above and having an angry look on his face"></a>
+            </figure>
+            <figure >
+              <a href="pics/art/fanart_smirk.jpg" target="_blank"><img src="pics/art/mini/minismirk.png" alt="Spy looking smirk (the full picture shows every other class pointing their weapons at him)"></a>
+            </figure>
+          </div>
+          <div class="column3" id="videohider">
+            <video id="video" class="ratio ratio-16x9" controls poster="video/thumbnail.jpg" width="480">
+              <source src="video/MeettheSpy.mp4" type="video/mp4">
+            </video>
+            <a href="description.html">video description</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <p><a href="#top">Back to the top</a></p>
+          <p>&copy; 2024 SpyFanPage</p>
+          <section id="sources">
+            <h2>Sources:</h2>
+            <p><a href="https://www.teamfortress.com/classes.php?class=spy">Official Team Fortress 2 website</a> <br>
+            <a href="https://wiki.teamfortress.com/wiki/Spy">Team Fortress 2 wiki</a> <br>
+            <a href="https://teamfortress.fandom.com/wiki/Spy">Team Fortress 2 fandom</a></p>
+          </section>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+<script src="scripts/bjs/bootstrap.min.js"></script>
+<script src="scripts/styleswitcher.js"></script>
+</body>
+</html>

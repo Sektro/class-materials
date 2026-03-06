@@ -1,0 +1,21 @@
+#include<stdio.h> 
+
+//felsorolás típus, akkor használjuk, ...
+
+enum week{Mon, Tue, Wed, Thur, Fri, Sat, Sun}; 
+
+//enum week2{Mon = 1, Tue, Wed, Thur, Fri, Sat, Sun};
+
+enum state {Working = 1, Failed = 0, Freezed = 0};  
+  
+int main() 
+{ 
+    enum week day; 
+    day = Wed; 
+    
+    printf("%d",day); 
+    
+    printf("%d, %d, %d", Working, Failed, Freezed);
+    
+    return 0; 
+}  

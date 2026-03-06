@@ -1,0 +1,7 @@
+t
+10
+p l 1000 s 200 s 300 l 500 p p p l 500 s 500
+3
+Thomas g Jerry t Craig
+5
+6 5 4 3 5 1 4 1 6 3 2 3 5 2 4

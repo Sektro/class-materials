@@ -1,0 +1,4 @@
+- beadandóban: lehet adatbázis (ajánlott: SQLite) 
+	==> Code extension: "SQLite3 Editor"
+- előadáson (11.) login rendszer kód
+- html nincs befejezve

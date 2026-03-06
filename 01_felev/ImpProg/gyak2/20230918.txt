@@ -1,0 +1,66 @@
+#include<stdio.h>
+#include<stdbool.h>
+#include<limits.h>
+int main(){
+int a;
+float b,c;
+    printf("%d\n",a);   
+    printf("kerek egy szamot:");
+    scanf("%d",&a);
+
+        if(a%2==0){
+        printf("%d paros\n",a);
+        }
+        else{
+        printf("%d paratlan\n",a);
+        }
+
+        if(a>0){
+        printf("pozitiv\n");
+        }
+
+            else if(a<0){
+            printf("negativ\n");
+
+        }
+        else{
+        printf("nulla\n");
+        }
+
+int x=3.12;
+    printf("%d\n",x);
+x='A';
+    printf("%d\n",x);
+x=false;
+    printf("%d\n",x);
+x="Jani Pisti";
+    printf("%d\n",x);    
+int int_size = sizeof(int);
+int bits= int_size *8;
+printf("max egesz%d\n",INT_MAX);
+int max=INT_MAX;
+max+=1;
+printf("overflow%d\n",max);
+printf("kerek egy szamot:");
+    scanf("%f",&b);
+printf("\nkerek egy szamot:");
+    scanf("%f",&c);
+printf("atlag : %f",((b+c)/2));
+
+
+return 0;
+
+int n,forditott=0,maradek;
+
+printf("kerek egy forditando szamot:");
+    scanf("%d",&n);
+while(n!=0){
+maradek= n%10;
+forditott = forditott*10+maradek;
+n/=10;
+printf("maradek: %d, forditott: %d, forditando: %d\n",maradek,forditott,forditando);
+
+}
+printf("Forditva =%d\n",forditott);
+
+}

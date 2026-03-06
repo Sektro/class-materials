@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf9\\solarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:solarsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf9\\planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:planet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf9\\lasership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:lasership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf9\\landingship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:landingship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf9\\wallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:wallbreaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|c:\\users\\pc\\onedrive - eotvos lorand tudomanyegyetem\\02_felev\\objektum_gy\\beadandok\\hf9\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADCEB02-0D3F-48A9-BD26-C38167B83365}|HF9.csproj|solutionrelative:starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Wallbreaker.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Wallbreaker.cs",
+              "RelativeDocumentMoniker": "Wallbreaker.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Wallbreaker.cs",
+              "RelativeToolTip": "Wallbreaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:39:35.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Starship.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Starship.cs",
+              "RelativeDocumentMoniker": "Starship.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Starship.cs",
+              "RelativeToolTip": "Starship.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:39:34.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Solarsystem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Solarsystem.cs",
+              "RelativeDocumentMoniker": "Solarsystem.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Solarsystem.cs",
+              "RelativeToolTip": "Solarsystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:39:33.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAMEAAAAAAAAAAAAwwHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:39:32.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Planet.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Planet.cs",
+              "RelativeDocumentMoniker": "Planet.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Planet.cs",
+              "RelativeToolTip": "Planet.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:39:31.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lasership.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Lasership.cs",
+              "RelativeDocumentMoniker": "Lasership.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Lasership.cs",
+              "RelativeToolTip": "Lasership.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:39:30.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Landingship.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Landingship.cs",
+              "RelativeDocumentMoniker": "Landingship.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive - Eotvos Lorand Tudomanyegyetem\\02_felev\\Objektum_GY\\beadandok\\HF9\\Landingship.cs",
+              "RelativeToolTip": "Landingship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:39:27.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

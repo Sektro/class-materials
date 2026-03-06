@@ -1,0 +1,8 @@
+-- 14. (4.feladatsor)
+/*
+π kategoria
+σ cnt = 2 γ kategoria; count(oazon)→cnt ∂ π kategoria, oazon
+σ fizetes ≤ felso ∧ fizetes ≥ also (Dolgozo ⨯ Fiz_kategoria)
+*/
+-- tmp = (γ A; AVG(D) → av (σ B >= 2 (R x S))) -- allekérdezés készitése
+γ A; AVG(D) → av (σ B >= 2 (R x S))

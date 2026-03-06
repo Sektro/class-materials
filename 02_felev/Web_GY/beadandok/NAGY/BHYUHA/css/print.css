@@ -1,0 +1,30 @@
+body {
+    margin: 0 0 0 0;
+    width: 100%;
+}
+.outofbounds {
+    display: none;
+}
+
+header {
+    display: none;
+}
+
+footer {
+    display: none;
+}
+
+img {
+  width: 50px;
+  height: auto;
+}
+img#modelpic {
+    width: 50px;
+    height: auto;
+}
+
+/*#videohider id videóhoz és mindenhez aminek a videóhoz köze van*/
+
+#videohider {
+    display: none;
+}

@@ -1,0 +1,9 @@
+group fgv-hez import kell (listás import) 
+ghci-ben: import Data.List
+kibontja a listát többre, amik mind ugyanolyan eleműek
+toUpper
+
+lambda: funkcprog jegyzet: Függvények összefoglaló
+
+hackage.haskell.org
+learnyouahaskell.com

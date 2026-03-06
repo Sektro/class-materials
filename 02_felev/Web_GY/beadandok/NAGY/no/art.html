@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom CSS -->
+  <style>
+    /* Add your custom CSS here */
+    body {
+      padding-top: 70px; /* fix for navbar height */
+    }
+    .navbar-custom {
+      background-color: #4CAF50; /* Green */
+    }
+    .navbar-custom .navbar-brand,
+    .navbar-custom .navbar-text {
+      color: #ffffff; /* White */
+    }
+    .navbar-custom .navbar-nav .nav-link {
+      color: #ffffff; /* White */
+    }
+    .navbar-custom .nav-item.active .nav-link {
+      color: #000000; /* Black */
+    }
+    /* Additional custom styles */
+    .content {
+      padding: 20px;
+      background-color: #f8f9fa; /* Light Gray */
+      color: #000000; /* Black */
+    }
+  </style>
+</head>
+<body>
+
+<nav class="navbar navbar-expand-md navbar-dark fixed-top navbar-custom">
+  <a class="navbar-brand" href="#">My Website</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="index.html">Game</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="story.html">Story</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Art</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="feedback.html">Feedback</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+<div class="content">
+  <h1>Art Page</h1>
+  <p>Welcome to the Art page! This is the default landing page.</p>
+  <p>Feel free to navigate to other pages using the menu above.</p>
+</div>
+
+<!-- Bootstrap JS and dependencies -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

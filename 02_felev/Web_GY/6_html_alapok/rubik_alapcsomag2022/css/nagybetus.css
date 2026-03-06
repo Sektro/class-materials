@@ -1,0 +1,48 @@
+﻿/* nagybetűs stílus */
+
+@import url('alapstilus.css');
+
+body {
+	font-size:2em;
+	
+}
+
+a#nagybetu{display: none;}
+a#normalbetu{display: block;}
+
+header, main, footer{
+	width: 90%;
+	max-width: 1200px;
+}
+
+nav#gyengenlato{width: 500px;}
+
+nav#gyengenlato span{
+	background-position: -330px 0px;
+}
+
+article#leiras aside{
+	float: none;
+	width: 90%;
+	margin: 0 auto;
+}
+
+article#kirakas{
+	column-count: 1;
+	-webkit-column-count: 1;
+	-moz-column-count: 1;
+}
+
+article#valtozatai figure{
+	position: static;
+	width: 300px;
+	margin: 0 auto;
+}
+
+article#valtozatai figure img{
+	width: 100%;
+}
+
+article#valtozatai{
+	padding-bottom: 30px;
+}

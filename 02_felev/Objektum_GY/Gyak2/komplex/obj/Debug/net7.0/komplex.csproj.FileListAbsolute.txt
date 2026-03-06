@@ -1,0 +1,14 @@
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\bin\Debug\net7.0\komplex.exe
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\bin\Debug\net7.0\komplex.deps.json
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\bin\Debug\net7.0\komplex.runtimeconfig.json
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\bin\Debug\net7.0\komplex.dll
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\bin\Debug\net7.0\komplex.pdb
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\obj\Debug\net7.0\komplex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\obj\Debug\net7.0\komplex.AssemblyInfoInputs.cache
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\obj\Debug\net7.0\komplex.AssemblyInfo.cs
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\obj\Debug\net7.0\komplex.csproj.CoreCompileInputs.cache
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\obj\Debug\net7.0\komplex.dll
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\obj\Debug\net7.0\refint\komplex.dll
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\obj\Debug\net7.0\komplex.pdb
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\obj\Debug\net7.0\komplex.genruntimeconfig.cache
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak2\komplex\obj\Debug\net7.0\ref\komplex.dll

@@ -1,0 +1,14 @@
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\bin\Debug\net8.0\gyakorlas1.exe
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\bin\Debug\net8.0\gyakorlas1.deps.json
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\bin\Debug\net8.0\gyakorlas1.runtimeconfig.json
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\bin\Debug\net8.0\gyakorlas1.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\bin\Debug\net8.0\gyakorlas1.pdb
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\obj\Debug\net8.0\gyakorlas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\obj\Debug\net8.0\gyakorlas1.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\obj\Debug\net8.0\gyakorlas1.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\obj\Debug\net8.0\gyakorlas1.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\obj\Debug\net8.0\gyakorlas1.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\obj\Debug\net8.0\refint\gyakorlas1.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\obj\Debug\net8.0\gyakorlas1.pdb
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\obj\Debug\net8.0\gyakorlas1.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Algoritmus\gyakorlas1\obj\Debug\net8.0\ref\gyakorlas1.dll

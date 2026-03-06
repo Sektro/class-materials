@@ -1,0 +1,606 @@
+@media screen {
+
+    /* ---------------------------- INDEX ---------------------------- */
+
+    /* -------- GENERAL -------- */
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #333;
+        color: #333;
+        margin: 0;
+        line-height: 1.6;
+        width: 100%;
+        height: 100%;
+        min-height: 100%;
+    }
+    
+    button {
+        align-items: center;
+        margin: 2px;
+        font-size: large;
+    }
+    
+
+
+
+    /* -------- HEAD -------- */
+    .nav-replacer {
+        height: 70px;
+        background-color: red;
+    }
+
+    .search {
+        position: relative;
+        width: 100%;
+        background-image: url("../pics/search_background.webp");
+        background-position: center;
+        min-height: 150px;
+    }
+    .search-cover {
+        width: inherit;
+        height: inherit;
+        min-height: inherit;
+        background: linear-gradient(red, #0000);
+    }
+    .search span {
+        color: white;
+        font-size: 40px;
+        width: 100%;
+    }
+    
+    .nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+        height: 60px;
+        display: flex;
+        background-color: red;
+        color: white;
+        align-items: center;
+        padding: 5px;
+        font-size: large;
+        font-weight: bold;
+        z-index: 10;
+    }
+    #name {
+        float: left;
+    }
+    .nothing {
+        width: 100%;
+    }
+    .logreg {
+        width: 300px;
+        padding: 2px;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-rows: 100%;
+        float: right;
+        justify-items: center;
+    }
+    .logreg a {
+        display: grid;
+        height: 100%;
+        align-items: center;
+    }
+    .login-button {
+        background-color: white;
+        color: black;
+        border: white;
+        border-radius: 3px;
+        height: 75%;
+    }
+    .login-button:hover {
+        background-color: rgb(120, 120, 120);
+        color: rgb(247, 247, 247);
+    }
+    .register-button {
+        background-color: black;
+        color: white;
+        border: black;
+        border-radius: 3px;
+        height: 75%;
+    }
+    .register-button:hover {
+        background-color: rgb(30, 30, 30);
+        color: rgb(247, 247, 247);
+    }
+    .new-button {
+        background-color: blue;
+        color: white;
+        border: blue;
+        border-radius: 3px;
+    }
+    .logreg a img {
+        max-height: 60px;
+        max-width: 60px;
+        height: 75%;
+        width: auto;
+    }
+    
+    
+    
+    
+    /* -------- MAIN -------- */
+    h1 {
+        font-size: 70px;
+        font-weight: bold;
+        width: 100%;
+        text-align: center;
+    }
+
+    .actual-search {
+        display: grid;
+        width: 100%;
+        color: white;
+        justify-content: space-evenly;
+    }
+
+
+    .container {
+        position: relative;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 15px;
+        padding: 20px;
+        max-width: 85%;
+        margin: 0 auto;
+    }
+    
+    .price {
+        font-size: 1.1em;
+        color: red;
+        font-weight: bold;
+    }
+    
+    .container > div {
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        padding: 15px;
+        text-align: center;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s, box-shadow 0.2s;
+    }
+    .container > div:hover {
+        transform: scale(1.05);
+        box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .container a {
+        text-decoration: none;
+    }
+
+    .container img {
+        width: 100%;
+        height: auto;
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 10px;
+        border-radius: 8px 8px 0 0;
+    }
+    
+    .title {
+        font-size: 1em;
+        font-weight: bold;
+        margin: 10px 0px 0px 0px;
+        color: #333;
+    }
+    
+    .price-container {
+        display: flex;
+        align-items: baseline;
+        gap: 10px;
+    }
+    
+    .extra-info {
+        font-size: 0.9em;
+        color: #888;
+        margin-bottom: 5px;
+    }
+
+    .test {
+        color: white;
+    }
+    
+    
+    
+    @keyframes pulse {
+        0% {
+            box-shadow: 0 0 10px rgba(255, 69, 0, 0.5);
+        }
+        50% {
+            box-shadow: 0 0 20px rgba(255, 69, 0, 0.8);
+        }
+        100% {
+            box-shadow: 0 0 10px rgba(255, 69, 0, 0.5);
+        }
+    }
+
+
+
+
+
+
+
+
+    /* ---------------------------- CAR ---------------------------- */
+    .car-body {
+        position: relative;
+        justify-content: center;
+    }
+    .car-display {
+        position: relative;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 15px;
+        padding: 20px;
+        max-width: 85%;
+        margin: 0 auto;
+        height: 100%;
+        justify-content: center;
+    }
+    .car-display > div {
+        max-width: 90%;
+    }
+    .car-display img {
+        display: block;
+        max-width: min(800px,85%);
+        max-height: min(500px,85%);
+        width: auto;
+        height: auto;
+    }
+    .information {
+        display: grid;
+    }
+    .buttons {
+        position: relative;
+        padding-top: 30px;
+        display: flex;
+        flex-direction: row;
+        height: 30px;
+    }
+    .date-button {
+        background-color: white;
+        color: black;
+        border: white;
+        border-radius: 3px;
+        width: 100%;
+        font-weight: bold;
+    }
+    .date-button:hover {
+        background-color: rgb(120, 120, 120);
+        color: rgb(247, 247, 247);
+    }
+    .reserve-button {
+        background-color: red;
+        color: white;
+        border: red;
+        border-radius: 3px;
+        width: 100%;
+        font-weight: bold;
+    }
+    .reserve-button:hover {
+        background-color: rgb(105, 0, 0);
+    }
+    .properties {
+        display: block;
+        position: relative;
+        color: white;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+        transition: transform 0.2s, box-shadow 0.2s;
+        height: 100%;
+    }
+    .car-title {
+        color: white;
+        padding: 20px;
+        font-size: 50px;
+    }
+    .car-seats {
+        color: white;
+        font-size: 20px;
+    }
+    .car-transmission {
+        color: white;
+        font-size: 20px;
+    }
+    .car-fuel {
+        color: white;
+        font-size: 20px;
+    }
+    .car-year {
+        color: white;
+        font-size: 20px;
+    }
+    .car-price {
+        color: white;
+        font-size: 40px;
+        align-self: flex-end;
+        height: 100%;
+        vertical-align: bottom;
+    }
+    
+
+
+
+
+
+    /* ---------------------------- NEW CAR ---------------------------- */
+    .new-car-display {
+        position: relative;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 15px;
+        padding: 20px;
+        max-width: 85%;
+        margin: 0 auto;
+        height: 100%;
+        justify-content: center;
+        color: white;
+    }
+    .new-car-display > div {
+        max-width: 90%;
+    }
+    .new-car-display img {
+        display: block;
+        max-width: min(800px,85%);
+        max-height: min(500px,85%);
+        width: auto;
+        height: auto;
+    }
+    .new-car-title {
+        color: white;
+        padding: 10px;
+        font-size: 25px;
+    }
+    .new-car-seats {
+        color: white;
+        font-size: 10px;
+    }
+    .new-car-transmission {
+        color: white;
+        font-size: 10px;
+    }
+    .new-car-fuel {
+        color: white;
+        font-size: 10px;
+    }
+    .new-car-year {
+        color: white;
+        font-size: 10px;
+    }
+    .new-car-price {
+        color: white;
+        font-size: 20px;
+        align-self: flex-end;
+        height: 100%;
+        vertical-align: bottom;
+        max-height: 60px;
+    }
+    .add-car-button {
+        background-color: red;
+        color: white;
+        border: red;
+        border-radius: 3px;
+        max-width: 90%;
+    }
+
+
+
+
+    /* ---------------------------- REGISTRATION ---------------------------- */
+    main {
+        display: grid;
+        justify-items: center;
+        color: white;
+    }
+    #registration-form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-size: 30px;
+    }
+    #registration-form > div {
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+    #registration-form input {
+        min-height: 30px;
+        min-width: 500px;
+    }
+    #registration-form button {
+        min-height: 60px;
+        min-width: 500px;
+        font-size: 40px;
+        font-weight: bold;
+        background-color: red;
+        color: white;
+        border: 1px, solid, red;
+        border-radius: 10px;
+        margin: 20px;
+    }
+    #registration-form button:hover {
+        background-color: rgb(180, 0, 0);
+        border: 1px, solid, rgb(180, 0, 0);
+    }
+    .error-message {
+        font-size: 20px;
+        color: red;
+    }
+
+
+    .login-message {
+        z-index: 10;
+        display: grid;
+        position: absolute;
+        align-self: center;
+        justify-self: center;
+        align-items: center;
+        justify-items: center;
+        top: 25%;
+        width: 500px;
+        height: 500px;
+        max-width: 85%;
+        max-height: 85%;
+        background-color: #333;
+        border-radius: 10px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 1);
+        transition: transform 0.2s, box-shadow 0.2s;
+        text-align: center;
+        font-size: 20px;
+    }
+    .login-message-list {
+        display: grid;
+        grid-template-rows: 25% 50% 25%;
+        grid-template-columns: 100%;
+        width: 100%;
+        height: 100%;
+        justify-items: center;
+        align-items: center;
+    }
+    .login-message-list > div {
+        font-size: 50px;
+    }
+    .login-message img {
+        margin: 20px;
+        max-width: 200px;
+        max-height: 200px;
+    }
+    .login-message a {
+        display: grid;
+        width: 75%;
+        height: 50%;
+        justify-items: center;
+        align-items: center;
+        text-decoration: none;
+    }
+    .login-message a button {
+        display: grid;
+        width: 100%;
+        height: 100%;
+        justify-items: center;
+        align-items: center;
+        font-size: 30px;
+        font-weight: bold;
+        background-color: red;
+        border-radius: 10px;
+        border: 1px, solid, red;
+        color: white;
+    }
+    .login-message a button:hover {
+        background-color: rgb(180, 0, 0);
+        border: 1px, solid, rgb(180, 0, 0);
+    }
+
+
+
+
+
+
+
+    /* ---------------------------- PROFILE ---------------------------- */
+    
+    .profile-title {
+        color: white;
+        padding: 10px;
+        font-size: 40px;
+    }
+    .reservations {
+        width: 100%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+@media (min-width:300px) {
+    .container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .search span {
+        font-size: 5em;
+    }
+    .search {
+        min-height: 300px;
+    }
+    .nav-replacer {
+        height: 70px;
+    }
+    .nav {
+        height: 60px;
+    }
+}
+@media (min-width:580px) {
+    .container {
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .search span {
+        font-size: 10em;
+    }
+    .search {
+        min-height: 650px;
+    }
+    .nav-replacer {
+        height: 70px;
+    }
+    .nav {
+        height: 60px;
+    }
+    .new-car-title {
+        padding: 20px;
+        font-size: 50px;
+    }
+    .new-car-seats {
+        font-size: 20px;
+    }
+    .new-car-transmission {
+        font-size: 20px;
+    }
+    .new-car-fuel {
+        font-size: 20px;
+    }
+    .new-car-year {
+        font-size: 20px;
+    }
+    .new-car-price {
+        font-size: 40px;
+    }
+}
+@media (min-width:1110px) {
+    .car-display {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .profile-title {
+        padding: 20px;
+        font-size: 75px;
+    }
+}
+@media (min-width:870px) {
+    .new-car-display {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (min-width:1400px) {
+    .container {
+        grid-template-columns: repeat(5, 1fr);
+    }
+}

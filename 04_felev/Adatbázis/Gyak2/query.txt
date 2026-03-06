@@ -1,0 +1,3 @@
+-- πgyumolcs σnev='Micimackó'Szeret
+-- pi gyumolcs (sigma nev='Micimackó' (Szeret))
+π sz1.nev σ sz1.nev = sz2.nev and sz1.gyumolcs ≠ sz2.gyumolcs ( ρ sz1 Szeret ⨯ ρ sz2 Szeret )

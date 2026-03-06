@@ -1,0 +1,336 @@
+{
+    "301": {
+        "name": "USB-C Charger 1",
+        "category": "Accessories",
+        "brand": "Anker",
+        "price": 7990,
+        "lowest_price": 7990,
+        "stock": 100,
+        "description": "Fast-charging USB-C wall charger compatible with most devices.",
+        "description_hu": "Gyors USB-C fali töltő, kompatibilis a legtöbb eszközzel.",
+        "specifications": {
+            "output_power": "20W",
+            "port_type": "USB-C",
+            "compatibility": "Universal"
+        },
+        "sales": {
+            "2024-11-22": 9,
+            "2024-11-09": 8,
+            "2024-11-17": 9
+        }
+    },
+    "302": {
+        "name": "Wireless Earbuds 2",
+        "category": "Audio",
+        "brand": "JBL",
+        "price": 26090,
+        "lowest_price": 24090,
+        "stock": 0,
+        "description": "Comfortable and long-lasting wireless earbuds with great sound.",
+        "description_hu": "Kényelmes és tartós vezeték nélküli fülhallgató kiváló hangzással.",
+        "specifications": {
+            "battery_life": "8 hours",
+            "connectivity": "Bluetooth 5.0",
+            "water_resistance": "IPX4"
+        },
+        "sales": {
+            "2024-11-16": 1,
+            "2024-11-28": 4,
+            "2024-11-04": 6,
+            "2024-11-15": 9
+        }
+    },
+    "303": {
+        "name": "Portable Power Bank 3",
+        "category": "Accessories",
+        "brand": "Xiaomi",
+        "price": 15190,
+        "lowest_price": 14190,
+        "stock": 116,
+        "description": "High-capacity portable power bank with USB-C and USB-A ports.",
+        "description_hu": "Nagy kapacitású hordozható töltő USB-C és USB-A portokkal.",
+        "specifications": {
+            "capacity": "20,000mAh",
+            "ports": "USB-C, USB-A",
+            "compatibility": "Universal"
+        },
+        "sales": {
+            "2024-11-24": 5,
+            "2024-11-11": 3,
+            "2024-11-15": 3,
+            "2024-11-12": 4
+        }
+    },
+    "304": {
+        "name": "Smartphone Screen Protector 4",
+        "category": "Accessories",
+        "brand": "Belkin",
+        "price": 5290,
+        "lowest_price": 5290,
+        "stock": 194,
+        "description": "Tempered glass screen protector for smartphones.",
+        "description_hu": "Edzett üveg kijelzővédő okostelefonokhoz.",
+        "specifications": {
+            "material": "Tempered glass",
+            "compatibility": "Universal",
+            "thickness": "0.33mm"
+        },
+        "sales": {
+            "2024-11-20": 4,
+            "2024-11-06": 2,
+            "2024-11-11": 6,
+            "2024-11-30": 4,
+            "2024-11-25": 6
+        }
+    },
+    "305": {
+        "name": "Smartwatch Band 5",
+        "category": "Accessories",
+        "brand": "Fitbit",
+        "price": 13390,
+        "lowest_price": 12990,
+        "stock": 72,
+        "description": "Comfortable and stylish smartwatch band.",
+        "description_hu": "Kényelmes és divatos okosóra szíj.",
+        "specifications": {
+            "material": "Silicone",
+            "compatibility": "Fitbit Versa 3, Sense",
+            "adjustable": "Yes"
+        },
+        "sales": {
+            "2024-11-09": 5,
+            "2024-11-25": 1,
+            "2024-11-07": 6
+        }
+    },
+    "306": {
+        "name": "USB-C Charger 6",
+        "category": "Accessories",
+        "brand": "Anker",
+        "price": 8490,
+        "lowest_price": 8490,
+        "stock": 90,
+        "description": "Fast-charging USB-C wall charger compatible with most devices.",
+        "description_hu": "Gyors USB-C fali töltő, kompatibilis a legtöbb eszközzel.",
+        "specifications": {
+            "output_power": "20W",
+            "port_type": "USB-C",
+            "compatibility": "Universal"
+        },
+        "sales": {
+            "2024-11-23": 9,
+            "2024-11-04": 3,
+            "2024-11-27": 4
+        }
+    },
+    "307": {
+        "name": "Wireless Earbuds 7",
+        "category": "Audio",
+        "brand": "JBL",
+        "price": 26590,
+        "lowest_price": 24590,
+        "stock": 38,
+        "description": "Comfortable and long-lasting wireless earbuds with great sound.",
+        "description_hu": "Kényelmes és tartós vezeték nélküli fülhallgató kiváló hangzással.",
+        "specifications": {
+            "battery_life": "8 hours",
+            "connectivity": "Bluetooth 5.0",
+            "water_resistance": "IPX4"
+        },
+        "sales": {
+            "2024-11-14": 4,
+            "2024-11-11": 5
+        }
+    },
+    "308": {
+        "name": "Portable Power Bank 8",
+        "category": "Accessories",
+        "brand": "Xiaomi",
+        "price": 15690,
+        "lowest_price": 15690,
+        "stock": 106,
+        "description": "High-capacity portable power bank with USB-C and USB-A ports.",
+        "description_hu": "Nagy kapacitású hordozható töltő USB-C és USB-A portokkal.",
+        "specifications": {
+            "capacity": "20,000mAh",
+            "ports": "USB-C, USB-A",
+            "compatibility": "Universal"
+        },
+        "sales": {
+            "2024-11-14": 3,
+            "2024-11-06": 10,
+            "2024-11-29": 6,
+            "2024-11-25": 5
+        }
+    },
+    "309": {
+        "name": "Smartphone Screen Protector 9",
+        "category": "Accessories",
+        "brand": "Belkin",
+        "price": 5790,
+        "lowest_price": 5790,
+        "stock": 184,
+        "description": "Tempered glass screen protector for smartphones.",
+        "description_hu": "Edzett üveg kijelzővédő okostelefonokhoz.",
+        "specifications": {
+            "material": "Tempered glass",
+            "compatibility": "Universal",
+            "thickness": "0.33mm"
+        },
+        "sales": {
+            "2024-11-19": 5,
+            "2024-11-26": 7,
+            "2024-11-23": 6,
+            "2024-11-06": 3
+        }
+    },
+    "310": {
+        "name": "Smartwatch Band 10",
+        "category": "Accessories",
+        "brand": "Fitbit",
+        "price": 13890,
+        "lowest_price": 12890,
+        "stock": 0,
+        "description": "Comfortable and stylish smartwatch band.",
+        "description_hu": "Kényelmes és divatos okosóra szíj.",
+        "specifications": {
+            "material": "Silicone",
+            "compatibility": "Fitbit Versa 3, Sense",
+            "adjustable": "Yes"
+        },
+        "sales": {
+            "2024-11-18": 5,
+            "2024-11-22": 9,
+            "2024-11-27": 5,
+            "2024-11-21": 7,
+            "2024-11-08": 9
+        }
+    },
+    "311": {
+        "name": "USB-C Charger 11",
+        "category": "Accessories",
+        "brand": "Anker",
+        "price": 8990,
+        "lowest_price": 8990,
+        "stock": 80,
+        "description": "Fast-charging USB-C wall charger compatible with most devices.",
+        "description_hu": "Gyors USB-C fali töltő, kompatibilis a legtöbb eszközzel.",
+        "specifications": {
+            "output_power": "20W",
+            "port_type": "USB-C",
+            "compatibility": "Universal"
+        },
+        "sales": {
+            "2024-11-10": 2,
+            "2024-11-19": 4,
+            "2024-11-12": 1,
+            "2024-11-07": 1,
+            "2024-11-11": 9
+        }
+    },
+    "312": {
+        "name": "Wireless Earbuds 12",
+        "category": "Audio",
+        "brand": "JBL",
+        "price": 27090,
+        "lowest_price": 26590,
+        "stock": 0,
+        "description": "Comfortable and long-lasting wireless earbuds with great sound.",
+        "description_hu": "Kényelmes és tartós vezeték nélküli fülhallgató kiváló hangzással.",
+        "specifications": {
+            "battery_life": "8 hours",
+            "connectivity": "Bluetooth 5.0",
+            "water_resistance": "IPX4"
+        },
+        "sales": {
+            "2024-11-15": 8,
+            "2024-11-10": 6,
+            "2024-11-06": 4,
+            "2024-11-24": 5,
+            "2024-11-25": 3,
+            "2024-11-05": 6
+        }
+    },
+    "313": {
+        "name": "Portable Power Bank 13",
+        "category": "Accessories",
+        "brand": "Anker",
+        "price": 16190,
+        "lowest_price": 16190,
+        "stock": 96,
+        "description": "High-capacity portable power bank with USB-C and USB-A ports.",
+        "description_hu": "Nagy kapacitású hordozható töltő USB-C és USB-A portokkal.",
+        "specifications": {
+            "capacity": "20,000mAh",
+            "ports": "USB-C, USB-A",
+            "compatibility": "Universal"
+        },
+        "sales": {
+            "2024-11-01": 3,
+            "2024-11-27": 9,
+            "2024-11-06": 8
+        }
+    },
+    "314": {
+        "name": "Smartphone Screen Protector 14",
+        "category": "Accessories",
+        "brand": "Belkin",
+        "price": 6290,
+        "lowest_price": 6290,
+        "stock": 174,
+        "description": "Tempered glass screen protector for smartphones.",
+        "description_hu": "Edzett üveg kijelzővédő okostelefonokhoz.",
+        "specifications": {
+            "material": "Tempered glass",
+            "compatibility": "Universal",
+            "thickness": "0.33mm"
+        },
+        "sales": {
+            "2024-11-23": 3,
+            "2024-11-14": 4,
+            "2024-11-25": 2,
+            "2024-11-28": 9
+        }
+    },
+    "315": {
+        "name": "Smartwatch Band 15",
+        "category": "Accessories",
+        "brand": "Fitbit",
+        "price": 14390,
+        "lowest_price": 14390,
+        "stock": 52,
+        "description": "Comfortable and stylish smartwatch band.",
+        "description_hu": "Kényelmes és divatos okosóra szíj.",
+        "specifications": {
+            "material": "Silicone",
+            "compatibility": "Fitbit Versa 3, Sense",
+            "adjustable": "Yes"
+        },
+        "sales": {
+            "2024-11-02": 5,
+            "2024-11-25": 7,
+            "2024-11-26": 9,
+            "2024-11-13": 10,
+            "2024-11-08": 1
+        }
+    },
+    "316": {
+        "name": "USB-C Charger 16",
+        "category": "Accessories",
+        "brand": "Anker",
+        "price": 9490,
+        "lowest_price": 9490,
+        "stock": 0,
+        "description": "Fast-charging USB-C wall charger compatible with most devices.",
+        "description_hu": "Gyors USB-C fali töltő, kompatibilis a legtöbb eszközzel.",
+        "specifications": {
+            "output_power": "20W",
+            "port_type": "USB-C",
+            "compatibility": "Universal"
+        },
+        "sales": {
+            "2024-11-21": 2,
+            "2024-11-24": 3
+        }
+    }
+}

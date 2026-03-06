@@ -1,0 +1,14 @@
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\bin\Debug\net8.0\HF6.exe
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\bin\Debug\net8.0\HF6.deps.json
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\bin\Debug\net8.0\HF6.runtimeconfig.json
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\bin\Debug\net8.0\HF6.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\bin\Debug\net8.0\HF6.pdb
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\obj\Debug\net8.0\HF6.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\obj\Debug\net8.0\HF6.AssemblyInfoInputs.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\obj\Debug\net8.0\HF6.AssemblyInfo.cs
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\obj\Debug\net8.0\HF6.csproj.CoreCompileInputs.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\obj\Debug\net8.0\HF6.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\obj\Debug\net8.0\refint\HF6.dll
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\obj\Debug\net8.0\HF6.pdb
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\obj\Debug\net8.0\HF6.genruntimeconfig.cache
+D:\OneDrive\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\HF6\obj\Debug\net8.0\ref\HF6.dll

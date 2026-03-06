@@ -1,0 +1,14 @@
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\bin\Debug\net7.0\Gyak8.exe
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\bin\Debug\net7.0\Gyak8.deps.json
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\bin\Debug\net7.0\Gyak8.runtimeconfig.json
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\bin\Debug\net7.0\Gyak8.dll
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\bin\Debug\net7.0\Gyak8.pdb
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\obj\Debug\net7.0\Gyak8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\obj\Debug\net7.0\Gyak8.AssemblyInfoInputs.cache
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\obj\Debug\net7.0\Gyak8.AssemblyInfo.cs
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\obj\Debug\net7.0\Gyak8.csproj.CoreCompileInputs.cache
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\obj\Debug\net7.0\Gyak8.dll
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\obj\Debug\net7.0\refint\Gyak8.dll
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\obj\Debug\net7.0\Gyak8.pdb
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\obj\Debug\net7.0\Gyak8.genruntimeconfig.cache
+C:\Users\bhyuha\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\Gyak8\obj\Debug\net7.0\ref\Gyak8.dll

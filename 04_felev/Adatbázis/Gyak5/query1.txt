@@ -1,0 +1,11 @@
+/*
+τ onev (π onev, av+100→fiz_plus
+(σ cnt>3 (γ onev;avg(fizetes)→av,count(dkod)→cnt (σ d.oazon=o.oazon
+(ρ d Dolgozo ⨯ ρ o Osztaly)))))
+*/
+-- σ fizetes ≤ felso ∧ fizetes ≥ also (Dolgozo ⨯ Fiz_kategoria)
+-- ==
+-- Dolgozo ⨝ fizetes ≤ felso ∧ fizetes ≥ also Fiz_kategoria
+
+π kategoria, oazon σ fizetes ≤ felso ∧ fizetes ≥ also (Dolgozo ⨯ Fiz_kategoria)
+

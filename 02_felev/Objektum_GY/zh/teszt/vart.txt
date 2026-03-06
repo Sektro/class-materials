@@ -1,0 +1,67 @@
+New simulation with enemies:
+Villain (HP: 45, DMG: 20)
+Villain (HP: 34, DMG: 1000)
+Thug (HP: 2000, DMG: 2000)
+Villain (HP: 25, DMG: 100)
+Starting 1 rounds.
+Status:
+Active: True, Batman lost: False, rounds: 1, total enemy power: 3120
+Enemies:
+Villain (HP: 45, DMG: 20)
+Villain (HP: 34, DMG: 1000)
+Thug (HP: 2000, DMG: 2000)
+Villain (HP: 25, DMG: 100)
+Batman: HP: 477, DMG: 20
+Starting 1 rounds.
+Status:
+Active: True, Batman lost: False, rounds: 2, total enemy power: 3120
+Enemies:
+Villain (HP: 45, DMG: 20)
+Villain (HP: 34, DMG: 1000)
+Thug (HP: 2000, DMG: 2000)
+Villain (HP: 25, DMG: 100)
+Batman: HP: 454, DMG: 20
+Starting 1 rounds.
+Status:
+Active: True, Batman lost: False, rounds: 3, total enemy power: 2120
+Enemies:
+Villain (HP: 45, DMG: 20)
+Thug (HP: 2000, DMG: 2000)
+Villain (HP: 25, DMG: 100)
+Batman: HP: 431, DMG: 20
+Starting 1 rounds.
+Status:
+Active: True, Batman lost: False, rounds: 4, total enemy power: 2144
+Enemies:
+Villain (HP: 45, DMG: 20)
+Thug (HP: 2000, DMG: 2000)
+Villain (HP: 25, DMG: 100)
+Thug (HP: 2, DMG: 2)
+Thug (HP: 2, DMG: 2)
+Thug (HP: 2, DMG: 5)
+Thug (HP: 80, DMG: 10)
+Thug (HP: 8, DMG: 5)
+Batman: HP: 408, DMG: 20
+Starting 2 rounds.
+Status:
+Active: True, Batman lost: False, rounds: 6, total enemy power: 2044
+Enemies:
+Villain (HP: 5, DMG: 20)
+Thug (HP: 2000, DMG: 2000)
+Thug (HP: 2, DMG: 2)
+Thug (HP: 2, DMG: 2)
+Thug (HP: 2, DMG: 5)
+Thug (HP: 80, DMG: 10)
+Thug (HP: 8, DMG: 5)
+Batman: HP: 362, DMG: 20
+Starting 1 rounds.
+Status:
+Active: False, Batman lost: True, rounds: 7, total enemy power: 2024
+Enemies:
+Thug (HP: 2000, DMG: 2000)
+Thug (HP: 2, DMG: 2)
+Thug (HP: 2, DMG: 2)
+Thug (HP: 2, DMG: 5)
+Thug (HP: 80, DMG: 10)
+Thug (HP: 8, DMG: 5)
+Batman: HP: -1638, DMG: 20

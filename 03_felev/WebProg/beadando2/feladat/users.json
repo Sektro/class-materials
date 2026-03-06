@@ -1,0 +1,14 @@
+{
+    "admin": {
+        "username": "admin",
+        "email": "admin@ikarrental.hu",
+        "password": "admin",
+        "reservations": []
+    },
+    "GojoSatoru": {
+        "username": "GojoSatoru",
+        "email": "honoredone@him.jp",
+        "password": "throughoutheavenandearth",
+        "reservations": []
+    }
+}

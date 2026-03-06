@@ -1,0 +1,38 @@
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\bin\Debug\net5.0\inp.txt
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\bin\Debug\net5.0\Creatures.exe
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\bin\Debug\net5.0\Creatures.deps.json
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\bin\Debug\net5.0\Creatures.runtimeconfig.json
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\bin\Debug\net5.0\Creatures.runtimeconfig.dev.json
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\bin\Debug\net5.0\Creatures.dll
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\bin\Debug\net5.0\ref\Creatures.dll
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\bin\Debug\net5.0\Creatures.pdb
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\bin\Debug\net5.0\TextFile.dll
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\obj\Debug\net5.0\Creatures.csproj.AssemblyReference.cache
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\obj\Debug\net5.0\Creatures.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\obj\Debug\net5.0\Creatures.AssemblyInfoInputs.cache
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\obj\Debug\net5.0\Creatures.AssemblyInfo.cs
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\obj\Debug\net5.0\Creatures.csproj.CoreCompileInputs.cache
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\obj\Debug\net5.0\Creatures.csproj.CopyComplete
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\obj\Debug\net5.0\Creatures.dll
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\obj\Debug\net5.0\ref\Creatures.dll
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\obj\Debug\net5.0\Creatures.pdb
+c:\Users\Tibi\Documents\Oktat\OEP\Előadasok\Programok\08.Creatures\Creatures\obj\Debug\net5.0\Creatures.genruntimeconfig.cache
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\bin\Debug\net5.0\inp.txt
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\bin\Debug\net5.0\Creatures.exe
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\bin\Debug\net5.0\Creatures.deps.json
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\bin\Debug\net5.0\Creatures.runtimeconfig.json
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\bin\Debug\net5.0\Creatures.runtimeconfig.dev.json
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\bin\Debug\net5.0\Creatures.dll
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\bin\Debug\net5.0\Creatures.pdb
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\bin\Debug\net5.0\TextFile.dll
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\Creatures.csproj.AssemblyReference.cache
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\Creatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\Creatures.AssemblyInfoInputs.cache
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\Creatures.AssemblyInfo.cs
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\Creatures.csproj.CoreCompileInputs.cache
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\Creatures.csproj.Up2Date
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\Creatures.dll
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\refint\Creatures.dll
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\Creatures.pdb
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\Creatures.genruntimeconfig.cache
+C:\Users\Kolos\OneDrive - Eotvos Lorand Tudomanyegyetem\02_felev\Objektum_GY\beadandok\NagyMinta\Creatures\Creatures\obj\Debug\net5.0\ref\Creatures.dll

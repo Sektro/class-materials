@@ -1,0 +1,4 @@
+Random1 piros Mexikó
+Random2 kék Mexikó
+Random3 piros Magyarország
+Random4 kék Magyarország
