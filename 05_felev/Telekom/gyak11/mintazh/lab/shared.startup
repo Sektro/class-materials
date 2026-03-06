@@ -1,0 +1,5 @@
+cat >> /root/.bashrc <<'EOF'
+STARTUP_FILE="/shared/$(hostname).startup"
+[ -e $STARTUP_FILE ] || { touch $STARTUP_FILE; chmod a+rw $STARTUP_FILE; }
+export PROMPT_COMMAND="history -a "$STARTUP_FILE";$PROMPT_COMMAND"
+EOF

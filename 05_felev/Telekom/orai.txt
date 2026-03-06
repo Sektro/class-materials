@@ -1,0 +1,12 @@
+ZH: canvast lehet használni 45 perc: 1-2. gyakorlat (számolás), 45 perc: Wireshark
+
+feladatok:
+1. 2									http2.headers.path contains ".css", 
+									Hypertext Transfer Protocol http.request.uri contains ".css" && http.request.method == GET (mivel csak a letöltésről volt szó)
+2. OST /ggombos/upload/ HTTP/1.1 Host: oktnb147.inf.elte.hu...		http2.headers.method == POST, http.request.method == POST
+3. 2 sikeres, 0 sikertelen						http.response.code == 200, http.response.code > 400 vagy http.response.code >= 300 && http.response.code < 400 (cacheelt csomagok)
+4. Source Port: 80							http2.headers.status > 400   Source Port
+5. 50									User Datagram Protocol - ban Source Port
+6. nincsenek								dhcp
+7. Igen,  								arp, arp.dst.proto_ipv4 == "ip cím" (Target IP Adress -> jobb klikk -> Aply as filter Selected)
+8. Igen									tls.handshake.type

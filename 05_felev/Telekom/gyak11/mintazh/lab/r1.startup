@@ -1,0 +1,5 @@
+python3 /shared/echo-ip.py &
+### !!! Write your solution below this line !!! ###
+ip addr add 1.8.8.10/24 dev eth1
+ip addr add 1.8.9.10/24 dev eth2
+ip addr add 12.1.1.1/8 dev eth0

@@ -1,0 +1,10 @@
+synchronized: egyszerre abból a metódusból csak egy futhat
+
+
+synchronized (System.out) {
+	fakePrint(getName() + " " + i + " ");
+}
+
+csoportzh: okt. 17., lényege: synchronized 25 perc
+
+array add() művelet nincs szinkronizálva

@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>Hallgató hozzárendelése kurzushoz</h2>
+<form method="post">
+    <label>Hallgató:</label><br>
+    <select name="student_id">
+        {% for student in students %}
+            <option value="{{ student.id }}">{{ student.name }}</option>
+        {% endfor %}
+    </select><br><br>
+
+    <label>Kurzus:</label><br>
+    <select name="course_id">
+        {% for course in courses %}
+            <option value="{{ course.id }}">{{ course.name }}</option>
+        {% endfor %}
+    </select><br><br>
+
+    <button type="submit">Hozzárendelés</button>
+</form>
+{% endblock %}

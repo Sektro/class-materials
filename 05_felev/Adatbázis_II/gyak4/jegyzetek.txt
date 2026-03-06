@@ -1,0 +1,42 @@
+1. feladat
+B(R) = T(R)/bf(R) = 10000/20 = 500
+B(I1) = T(R)/bf(I1) = 10000/100 = 100
+B(I2) = B(R)/bf(I2) = 500/100 = 5
+
+2.feladat
+bf-eket megszorozzuk 0,8-el és utána ugyanez
+
+többi HF
+
+1.feladat (bináris lekérdezés)
+DNEV FOGLALKOZAS BELEPES OAZON
+SMITH CLERK 1980 20
+ALLEN SALESMAN 1981 30
+WARD CLERK 1981 30
+JONES MANAGER 1983 20
+MARTIN SALESMAN 1981 30
+BLAKE MANAGER 1983 30
+CLARK MANAGER 1981 10
+SCOTT ANALYST 1982 20
+KING PRESIDENT 1981 10
+TURNER CLERK 1983 30
+
+
+SELECT * 
+FROM dolgozo
+WHERE (belepes = 1981 AND foglalkozas = 'CLERK') OR (oazon = 20 AND folalkozas = 'MANAGER')
+
+
+kódolás:
+0000000000000000000000010000000101
+i=23 -> 10111		i=7 -> 111	i=1 -> 1
+j=5  -> 11110		j=3 -> 110	j=1 -> 0
+1111010111	|	110111	    |	01
+
+
+dekódolás
+11110|10101||0|0||10|11
+
+j=5			|j=1	|j=2
+i=21 			|i=0 ->0|i=11 -> 3
+0000000000000000000001 	|1	|0001

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Felhasználók listája</title>
+</head>
+<body>
+    <h2>Felhasználók</h2>
+    <ul>
+        {% for user in users %}
+            <li>{{ user.name }} - {{ user.email }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

@@ -1,0 +1,5 @@
+cat /shared/id_rsa.pub >> ~/.ssh/authorized_keys
+chmod 700 ~/.ssh
+chmod 600 ~/.ssh/authorized_keys
+systemctl start sshd
+echo "!!! Write your solution below this line !!!"

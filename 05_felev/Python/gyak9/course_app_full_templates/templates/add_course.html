@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>Új kurzus felvétele</h2>
+<form method="post">
+    <label>Kurzus neve:</label><br>
+    <input type="text" name="name" required><br>
+    <label>Leírás:</label><br>
+    <input type="text" name="description"><br>
+    <label>Oktató:</label><br>
+    <select name="instructor" required>
+        {% for instructor in instructors %}
+            <option value="{{ instructor.id }}">{{ instructor.name }}</option>
+        {% endfor %}
+    </select><br><br>
+    <button type="submit">Mentés</button>
+</form>
+{% endblock %}

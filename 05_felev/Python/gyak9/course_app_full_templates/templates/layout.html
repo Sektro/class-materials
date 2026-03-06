@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <title>Kurzus Nyilvántartó</title>
+</head>
+<body>
+    <h1>Kurzus Nyilvántartó</h1>
+    <nav>
+        <a href="{{ url_for('index') }}">Főoldal</a> |
+        <a href="{{ url_for('courses') }}">Kurzusok</a> |
+        <a href="{{ url_for('add_course') }}">Új kurzus</a> |
+        <a href="{{ url_for('students') }}">Hallgatók</a> |
+        <a href="{{ url_for('add_student') }}">Új hallgató</a> |
+        <a href="{{ url_for('add_instructor') }}">Új oktató</a> |
+        <a href="{{ url_for('enroll_student') }}">Hallgató hozzárendelése</a>
+    </nav>
+    <hr>
+    {% block content %}{% endblock %}
+</body>
+</html>

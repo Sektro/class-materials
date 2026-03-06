@@ -1,0 +1,60 @@
+# -------------------------------------------------
+# Központi határeloszlás-tétel demonstráció
+# 12 db Uniform(0,1) standardizált összege vs. standard normális
+# 1000 szimuláció
+# -------------------------------------------------
+
+set.seed(123)  # reprodukálhatóság miatt
+
+n_sim <- 1000
+
+# 1) 12 db független Uniform(0,1) összegének standardizálása
+#    (E[U] = 0.5, Var(U) = 1/12 → E[S] = 6, Var(S) = 1 → Z = S - 6)
+uniform_standardized <- replicate(n_sim, sum(runif(12)) - 6)
+
+# 2) 1000 db független standard normális minta
+normal_samples <- rnorm(n_sim, mean = 0, sd = 1)
+
+# -------------------------------------------------
+# Ábrázolás: két hisztogram egymás mellett + standard normális sűrűségfüggvény
+# -------------------------------------------------
+
+par(mfrow = c(1, 2), mar = c(4, 4, 3, 1))
+
+# 1. ábra: 12 Uniform(0,1) standardizált összege
+hist(uniform_standardized,
+     prob = TRUE,               # sűrűség (ne darabszám)
+     breaks = 25,
+     col = "lightblue",
+     border = "white",
+     main = "12 db Uniform(0,1) standardizált összege\n(n = 1000 szimuláció)",
+     xlab = "Standardizált érték",
+     ylab = "Sűrűség",
+     xlim = c(-4, 4),
+     ylim = c(0, 0.45),
+     cex.main = 0.95)
+
+# Rárajzoljuk a standard normális sűrűségfüggvényt (piros)
+curve(dnorm(x, mean = 0, sd = 1), 
+      add = TRUE, col = "red", lwd = 2.5)
+
+# 2. ábra: valódi standard normális
+hist(normal_samples,
+     prob = TRUE,
+     breaks = 25,
+     col = "lightgreen",
+     border = "white",
+     main = "Valódi standard normális eloszlás\n(n = 1000 minta)",
+     xlab = "Érték",
+     ylab = "Sűrűség",
+     xlim = c(-4, 4),
+     ylim = c(0, 0.45),
+     cex.main = 0.95)
+
+curve(dnorm(x, mean = 0, sd = 1), 
+      add = TRUE, col = "red", lwd = 2.5)
+
+# Legenda (közös a két ábrára)
+legend("topright", 
+       legend = "N(0,1) sűrűségfüggvény", 
+       col = "red", lwd = 2.5, cex = 0.9, inset = 0.02)

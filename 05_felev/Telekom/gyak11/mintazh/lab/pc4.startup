@@ -1,0 +1,2 @@
+### !!! Write your solution below this line !!! ###
+ip addr add 1.8.9.10/24 dev eth0

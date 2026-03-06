@@ -1,0 +1,62 @@
+{
+    "instructors": [
+        {
+            "id": 1,
+            "name": "Dr. Kov\u00e1cs P\u00e9ter",
+            "email": "kovacs.peter@uni.hu"
+        },
+        {
+            "id": 2,
+            "name": "Dr. Szab\u00f3 \u00c9va",
+            "email": "szabo.eva@uni.hu"
+        }
+    ],
+    "courses": [
+        {
+            "id": 1,
+            "name": "Bevezet\u00e9s a Pythonba",
+            "description": "Alapoz\u00f3 kurzus kezd\u0151knek",
+            "instructor": {
+                "id": 1,
+                "name": "Dr. Kov\u00e1cs P\u00e9ter",
+                "email": "kovacs.peter@uni.hu"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Adatb\u00e1zis-kezel\u00e9s",
+            "description": "SQL \u00e9s rel\u00e1ci\u00f3s modellek",
+            "instructor": {
+                "id": 2,
+                "name": "Dr. Szab\u00f3 \u00c9va",
+                "email": "szabo.eva@uni.hu"
+            }
+        }
+    ],
+    "students": [
+        {
+            "id": 1,
+            "name": "Nagy Anna",
+            "email": "anna.nagy@student.hu"
+        },
+        {
+            "id": 2,
+            "name": "Kiss Bence",
+            "email": "bence.kiss@student.hu"
+        }
+    ],
+    "enrollments": [
+        {
+            "student_id": 1,
+            "course_id": 1
+        },
+        {
+            "student_id": 1,
+            "course_id": 2
+        },
+        {
+            "student_id": 2,
+            "course_id": 1
+        }
+    ]
+}

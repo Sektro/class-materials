@@ -1,0 +1,8 @@
+ip addr add 95.140.44.1/24 dev eth0
+ip addr add 18.0.0.2/24 dev eth1
+
+ip route add 17.0.0.0/24 dev eth1 via 18.0.0.1
+ip route add 16.0.0.0/24 dev eth1 via 18.0.0.1
+ip route add 10.0.0.0/24 dev eth1 via 18.0.0.1
+ip route add 10.0.1.0/24 dev eth1 via 18.0.0.1
+ip route add 142.250.201.0/24 dev eth1 via 18.0.0.1

@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>Kurzusok</h2>
+<ul>
+    {% for course in courses %}
+        <li>
+            <strong>{{ course.name }}</strong> – {{ course.description }}<br>
+            Oktató: {{ course.instructor.name }}<br>
+            <a href="{{ url_for('edit_course', course_id=course.id) }}">✏️ Szerkesztés</a> |
+            <a href="{{ url_for('delete_course', course_id=course.id) }}" onclick="return confirm('Biztos törlöd?')">🗑️ Törlés</a>
+        </li>
+    {% else %}
+        <li>Nincs kurzus</li>
+    {% endfor %}
+</ul>
+{% endblock %}

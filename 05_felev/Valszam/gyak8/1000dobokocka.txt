@@ -1,0 +1,35 @@
+# ========================================
+# 1000 kockadobás átlagának szimulációja
+# ========================================
+
+# Beállítások
+n_dobas <- 1000        # dobások száma egy kísérletben
+n_szimulacio <- 1000000 # szimulációk száma (minél több, annál pontosabb)
+hatar <- 3.49          # küszöb
+
+# Szimuláció: minden sor egy kísérlet (1000 dobás átlaga)
+# sample(1:6, ...) gyors és hatékony
+atlagok <- colMeans(matrix(sample(1:6, n_dobas * n_szimulacio, replace = TRUE), 
+                           nrow = n_dobas))
+
+# Mennyi volt < 3.49?
+kisebb_mint_hatar <- mean(atlagok < hatar)
+
+# Eredmény kiírása
+cat("Szimulált valószínűség (P(X̄ < 3.49)) ≈", kisebb_mint_hatar, "\n")
+
+# Csebisev-egyenlőtlenség szerinti felső korlát
+mu <- 3.5
+var_egy <- (35/12) / n_dobas   # Var(X̄)
+t <- mu - hatar               # 0.01
+csebisev_korlat <- var_egy / t^2
+csebisev_korlat <- min(csebisev_korlat, 1)  # max 1 lehet
+
+cat("Csebisev-egyenlőtlenség felső korlátja:", csebisev_korlat, "\n")
+cat("(Pontos tört: 175/6 ≈ 29.17, de >1, így a korlát 1)\n")
+
+# Opcionális: hisztogram az átlagok eloszlásáról
+hist(atlagok, breaks = 50, main = "1000 kockadobás átlagának eloszlása",
+     xlab = "Átlag", col = "lightblue", border = "white")
+abline(v = hatar, col = "red", lwd = 2, lty = 2)
+text(hatar, par("usr")[4]*0.9, "3.49", col = "red", pos = 4)

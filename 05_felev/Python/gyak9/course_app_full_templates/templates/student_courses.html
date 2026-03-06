@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+{% block content %}
+<h2>{{ student.name }} kurzusai</h2>
+<ul>
+    {% for course in courses %}
+        <li>{{ course.name }} – {{ course.description }}</li>
+    {% else %}
+        <li>Nincs még beiratkozott kurzus.</li>
+    {% endfor %}
+</ul>
+{% endblock %}

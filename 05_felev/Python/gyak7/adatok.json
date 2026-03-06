@@ -1,0 +1,15 @@
+{
+    "nev": "Anna",
+    "kor": 25,
+    "varos": "Budapest",
+    "hobbik": [
+        "olvasas",
+        "sport",
+        "zenehallgatas"
+    ],
+    "kedvenc_szamok": {
+        "1": "Queen - Bohemian Rhapsody",
+        "2": "Led Zeppelin - Stairway to Heaven",
+        "3": "Pink Floyd - Comfortably Numb"
+    }
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Konkurens.iml" filepath="$PROJECT_DIR$/Konkurens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak1/gyak1.iml" filepath="$PROJECT_DIR$/gyak1/gyak1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak2/gyak2.iml" filepath="$PROJECT_DIR$/gyak2/gyak2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak5/gyak5.iml" filepath="$PROJECT_DIR$/gyak5/gyak5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak6/gyak6.iml" filepath="$PROJECT_DIR$/gyak6/gyak6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyakorlas/gyakorlas.iml" filepath="$PROJECT_DIR$/gyakorlas/gyakorlas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak4/ora/src/ora.iml" filepath="$PROJECT_DIR$/gyak4/ora/src/ora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gyak4/ora/ora2.iml" filepath="$PROJECT_DIR$/gyak4/ora/ora2.iml" />
+    </modules>
+  </component>
+</project>

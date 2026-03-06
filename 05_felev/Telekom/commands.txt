@@ -1,0 +1,17 @@
+CMD
+ipconfig
+nslookup google.hu
+tracert google.hu ( = traceroute google.hu, ez nem mükszik Windowson)
+ping google.hu - round trip time csekkolása
+
+WIRESHARK
+dns.qry.name contains tanrend
+http.request.uri contains "upload" and http.host == "oktnb147.inf.elte.hu"
+dns
+dns.qry.name contains tanrend
+http2.headers.status >= 400 (kell: edit->preferences->protocols->TLS)
+http2.headers.method == GET
+http2.headers.authority contains tanrend
+
+
+type A: ipv4

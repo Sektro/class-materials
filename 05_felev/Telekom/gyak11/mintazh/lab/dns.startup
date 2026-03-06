@@ -1,0 +1,23 @@
+cat >> /etc/bind/named.conf.local <<EOF
+zone "elek.hu" {
+    type master;
+    file "/etc/bind/zones/db.elek.hu";
+};
+EOF
+
+mkdir -p /etc/bind/zones
+cat > /etc/bind/zones/db.elek.hu <<'EOF'
+$TTL    604800
+@       IN      SOA     ns1.elek.hu. admin.elek.hu. (
+                              3         ; Serial
+                         604800         ; Refresh
+                          86400         ; Retry
+                        2419200         ; Expire
+                         604800 )       ; Negative Cache TTL
+
+@       IN      NS      ns1.elek.hu.
+ns1     IN      A       1.8.8.10
+@       IN      A       1.8.8.10
+EOF
+### !!! Write your solution below this line !!! ###
+ip addr add 178.16.1.100/12 dev eth0

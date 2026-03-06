@@ -1,0 +1,6 @@
+cp /shared/id_rsa* ~/.ssh
+chmod 700 ~/.ssh
+chmod 644 ~/.ssh/id_rsa.pub
+chmod 600 ~/.ssh/id_rsa
+echo "!!! Write your solution below this line !!!"
+ip addr add 192.168.10.10/16 dev eth0
